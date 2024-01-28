@@ -1,6 +1,6 @@
 ---
 title: Acute exacerbatie van chronische bronchitis & COPD
-draft: true
+draft: false
 tags:
   - Longeneeskunde/Chronische_ziekten
 aliases: 

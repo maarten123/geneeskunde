@@ -1,11 +1,11 @@
 ---
-title: "Ablatio retinae"
-draft: true
+title: Ablatio retinae
+draft: false
 tags:
-- Aandoening
-- Oogheelkunde/Degeneratief
-- Oogheelkunde/Netvlies
-aliases: 
+  - Aandoening
+  - Oogheelkunde/Degeneratief
+  - Oogheelkunde/Netvlies
+aliases:
   - Netvliesloslating
 description:
 ---

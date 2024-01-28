@@ -1,6 +1,6 @@
 ---
 title: Acrovesiculeus eczeem
-draft: true
+draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
   - Aandoening

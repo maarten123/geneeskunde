@@ -1,6 +1,6 @@
 ---
 title: Acromegalie
-draft: true
+draft: false
 tags:
   - Aandoening
   - Endocrinologie/Hypofyse

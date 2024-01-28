@@ -1,6 +1,6 @@
 ---
 title: (Papillomateuze) naevus naevocellularis
-draft: true
+draft: false
 tags:
   - Dermatologie/Huidtumoren
 aliases:

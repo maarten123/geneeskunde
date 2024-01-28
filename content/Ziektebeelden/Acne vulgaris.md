@@ -1,6 +1,6 @@
 ---
 title: Acne vulgaris
-draft: true
+draft: false
 tags:
   - Aandoening
   - Dermatologie/Inflammatoire_dermatosen

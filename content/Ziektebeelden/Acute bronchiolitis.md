@@ -1,6 +1,6 @@
 ---
 title: Acute bronchiolitis
-draft: true
+draft: false
 tags:
   - Aandoening
   - Longeneeskunde

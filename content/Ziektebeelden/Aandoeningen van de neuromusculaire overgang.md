@@ -1,6 +1,6 @@
 ---
 title: Aandoeningen van de neuromusculaire overgang
-draft: true
+draft: false
 tags:
   - Neurologie/Bewegingsstoornissen
 aliases: 

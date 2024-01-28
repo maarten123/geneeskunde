@@ -1,8 +1,11 @@
 ---
-title: "Abces"
-draft: true
+title: Abces
+draft: false
 tags: 
-aliases: Abscess, abces, abcessen
+aliases:
+  - Abscess
+  - abces
+  - abcessen
 description:
 ---
 

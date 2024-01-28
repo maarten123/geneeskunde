@@ -1,6 +1,6 @@
 ---
 title: Acute bronchitis
-draft: true
+draft: false
 tags:
   - Aandoening
   - Infectiologie/Ondersteluchtweginfecties

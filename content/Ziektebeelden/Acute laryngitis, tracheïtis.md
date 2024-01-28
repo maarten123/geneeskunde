@@ -1,6 +1,6 @@
 ---
 title: Acute laryngitis, tracheïtis
-draft: true
+draft: false
 tags:
   - Aandoening
   - Infectiologie/Bovensteluchtweginfecties
