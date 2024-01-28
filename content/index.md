@@ -2,7 +2,7 @@
 title: Welcome to Quartz
 ---
 ###### Ziektebeelden
-- [[content/Ziektebeelden/(Haem)angioma senilis.md|(Haem)angioma senilis]]
+- [[(Haem)angioma senilis]]
 - [[content/Ziektebeelden/(Infantiel) Hemangioom.md|(Infantiel) Hemangioom]]
 - [[content/Ziektebeelden/(Papillomateuze) naevus naevocellularis.md|(Papillomateuze) naevus naevocellularis]]
 - [[content/Ziektebeelden/(Rino)Sinusitis.md|(Rino)Sinusitis]]
