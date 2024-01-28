@@ -1,14 +1,14 @@
 ---
-tags: Aandoening_dv
-type: Aandoening
-specialisme:
-  - Dermatologie
+title: (Haem)angioma senilis
+draft: false
+tags:
+  - Dermatolotie/Huidtumoren
+  - Aandoening
 aliases:
-status: Todo
-bron: KVS D5
-sub: Huidtumoren
+  - Hemangioom
+  - (Infantiel) Hemangioom
+description: "Goedaardige tumor van de bloedvaten: benigne endotheelproliferatie die soms direct bij de geboorte aanwezig is."
 ---
-
 ![|150](https://i.imgur.com/kJanRLu.png)
 ![|150](https://i.imgur.com/bPHJ3GJ.png)
 ![|150](https://i.imgur.com/897wCEL.png)
