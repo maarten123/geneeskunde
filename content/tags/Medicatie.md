@@ -1,8 +1,7 @@
 ---
 title: Medicatie
 draft: false
-tags:
-  - Medicatie
+tags: []
 aliases: 
 description:
 ---
