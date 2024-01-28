@@ -10,8 +10,6 @@ aliases:
 description: Angioma senile is een bloedvatverwijding
 ---
 
-
-
 ![|150](https://i.imgur.com/CszzZxK.png)
 
 
