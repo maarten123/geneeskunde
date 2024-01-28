@@ -1,14 +1,17 @@
 ---
-tags: Aandoening_dv
-type: Aandoening
-specialisme:
-  - Dermatologie
+title: (Haem)angioma senilis
+draft: false
+tags:
+  - Dermatolotie
+  - Aandoening
 aliases:
-status: Todo
-bron: KVS D5
-sub: Huidtumoren
+  - (Haem)angioma senilis
+  - Angioma senilis
+description: Angioma senile is een bloedvatverwijding
 ---
+
 ![|150](https://i.imgur.com/CszzZxK.png)
+
 
 
 - Angioma senile is een bloedvatverwijding.
