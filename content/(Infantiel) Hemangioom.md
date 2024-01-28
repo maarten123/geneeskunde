@@ -1,5 +1,5 @@
 ---
-title: (Haem)angioma senilis
+title: (Infantiel) Hemangioom
 draft: false
 tags:
   - Dermatolotie/Huidtumoren
