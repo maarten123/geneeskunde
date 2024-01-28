@@ -2,16 +2,19 @@
 title: (Infantiel) Hemangioom
 draft: false
 tags:
-  - Dermatolotie/Huidtumoren
+  - Dermatologie/Huidtumoren
   - Aandoening
 aliases:
   - Hemangioom
   - (Infantiel) Hemangioom
 description: "Goedaardige tumor van de bloedvaten: benigne endotheelproliferatie die soms direct bij de geboorte aanwezig is."
 ---
-![|150](https://i.imgur.com/kJanRLu.png)
-![|150](https://i.imgur.com/bPHJ3GJ.png)
-![|150](https://i.imgur.com/897wCEL.png)
+
+
+
+
+| ![\|150](https://i.imgur.com/kJanRLu.png) | ![\|150](https://i.imgur.com/bPHJ3GJ.png) | ![\|150](https://i.imgur.com/897wCEL.png) |
+| ---- | ---- | ---- |
 
 
 - Goedaardige tumor van de bloedvaten: benigne endotheelproliferatie die soms direct bij de geboorte aanwezig is.
