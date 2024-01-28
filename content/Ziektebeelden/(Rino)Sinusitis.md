@@ -76,7 +76,7 @@ description: Bijholteontsteking/(sub)acute virale bovensteluchtweginfectie
 > 	- FESS (functional endoscopic sinus surgery) bij chronische structurele oorzaak 
 > - **Bacteriële verwekker**: 
 > 	- [[Amoxicilline]]
-> 	- [[Doxycyline]]
+> 	- [[Doxycycline]]
 > 	- [[Claritromycine]]
 > 	- [[Azitromycine]]; 
 > 	- Allen effectief tegen de belangrijkste 3 verwekkers; 
