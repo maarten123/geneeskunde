@@ -1,4 +1,8 @@
 ---
-Aliases: [ "#Medicatie" ]
+title: Medicatie
+draft: false
+tags:
+  - Medicatie
+aliases: 
+description:
 ---
-adsfadsfeaswdf
