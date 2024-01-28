@@ -75,10 +75,10 @@ description: Bijholteontsteking/(sub)acute virale bovensteluchtweginfectie
 > 	- Neusdruppels fysiologisch zout (stomen is overbodig)
 > 	- FESS (functional endoscopic sinus surgery) bij chronische structurele oorzaak 
 > - **Bacteriële verwekker**: 
-> 	- Amoxicilline
-> 	- Doxycyline
-> 	- Claritromycine
-> 	- Azitromycine; 
+> 	- [[Amoxicilline]]
+> 	- [[Doxycyline]]
+> 	- [[Claritromycine]]
+> 	- [[Azitromycine]]; 
 > 	- Allen effectief tegen de belangrijkste 3 verwekkers; 
 > 	- Amoxicilline heeft de voorkeur vanwege het smalle spectrum (er moet altijd gestreefd worden naar een zo smal spectrum antibioticum);
 
