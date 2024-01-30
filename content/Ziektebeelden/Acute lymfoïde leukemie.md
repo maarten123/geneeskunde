@@ -4,7 +4,7 @@ draft: false
 tags: 
 - Oncologie/Hemato-oncologie
 - Interne_geneeskunde/Hematologie
-- Aandoening
+- Ziektebeeld
 aliases: ALL
 description: Maligne klonale proliferatie van voorlopercellen van T- of B-cellen
 ---

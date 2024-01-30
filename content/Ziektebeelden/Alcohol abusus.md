@@ -2,7 +2,7 @@
 title: "Alcohol abusus"
 draft: false
 tags: 
-- Aandoening
+- Ziektebeeld
 - Verslavingsgeneeskunde
 aliases: 
 description:

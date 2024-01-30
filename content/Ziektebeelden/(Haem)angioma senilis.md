@@ -3,7 +3,7 @@ title: (Haem)angioma senilis
 draft: false
 tags:
   - Dermatologie
-  - Aandoening
+  - Ziektebeeld
 aliases:
   - (Haem)angioma senilis
   - Angioma senilis

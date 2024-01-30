@@ -2,7 +2,7 @@
 title: Acute bronchiolitis
 draft: false
 tags:
-  - Aandoening
+  - Ziektebeeld
   - Longeneeskunde
   - Infectiologie/Ondersteluchtweginfecties
 aliases: 

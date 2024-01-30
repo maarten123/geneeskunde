@@ -2,7 +2,7 @@
 title: Acuut toxisch eczeem
 draft: true
 tags:
-  - Aandoening
+  - Ziektebeeld
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
   - Todo
 aliases: 

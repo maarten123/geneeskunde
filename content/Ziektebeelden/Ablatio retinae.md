@@ -2,7 +2,7 @@
 title: Ablatio retinae
 draft: false
 tags:
-  - Aandoening
+  - Ziektebeeld
   - Oogheelkunde/Degeneratief
   - Oogheelkunde/Netvlies
 aliases:

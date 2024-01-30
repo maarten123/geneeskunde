@@ -3,7 +3,7 @@ title: (Infantiel) Hemangioom
 draft: false
 tags:
   - Dermatologie/Huidtumoren
-  - Aandoening
+  - Ziektebeeld
 aliases:
   - Hemangioom
   - (Infantiel) Hemangioom

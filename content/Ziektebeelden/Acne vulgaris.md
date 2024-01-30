@@ -2,7 +2,7 @@
 title: Acne vulgaris
 draft: false
 tags:
-  - Aandoening
+  - Ziektebeeld
   - Dermatologie/Inflammatoire_dermatosen
 aliases:
   - Acne

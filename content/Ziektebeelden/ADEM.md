@@ -4,7 +4,7 @@ draft: false
 tags: 
   - Neurologie/Acute_neurologie
   - Acute geneeskunde
-  - Aandoening
+  - Ziektebeeld
 aliases: 
 description:
 ---

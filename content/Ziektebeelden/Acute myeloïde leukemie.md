@@ -3,7 +3,7 @@ title: Acute myeloïde leukemie
 draft: false
 tags:
   - Interne_geneeskunde/Hematologie
-  - Aandoening
+  - Ziektebeeld
   - Oncologie/Hemato-oncologie
 aliases:
   - AML

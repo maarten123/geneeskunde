@@ -2,7 +2,7 @@
 title: Acromegalie
 draft: false
 tags:
-  - Aandoening
+  - Ziektebeeld
   - Endocrinologie/Hypofyse
   - Oncologie
 aliases: 

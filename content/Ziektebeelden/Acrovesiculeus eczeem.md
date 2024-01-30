@@ -3,7 +3,7 @@ title: Acrovesiculeus eczeem
 draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
-  - Aandoening
+  - Ziektebeeld
 aliases:
   - Blaasjeseczeem
 description: Een puur beschrijvende term voor eczeem met blaasjes.
