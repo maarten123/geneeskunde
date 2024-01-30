@@ -1,13 +1,15 @@
 ---
-tags: rev
-type: Aandoening
-specialismen: 
-aliases: anemie, Anemie
-status: Todo
-cssClasses: img-grid, embed-strict
-banner: https://images.unsplash.com/photo-1566410845311-1201aefbee6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
-banner_title: Anaemie
+title: Anaemie
+draft: false
+tags:
+  - Interne_geneeskunde/Hematologie
+  - Ziektebeeld
+aliases:
+  - anemie
+  - anaemie
+description:
 ---
+
 
 Anaemie kan een licht gevoel in het hoofd geven, met name bij opstaan en inspanning. Dit gaat samen met vermoeidheid en bleekheid.
 

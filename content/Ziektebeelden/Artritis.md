@@ -1,14 +1,10 @@
-
 ---
-tags: Aandoening
-type: Aandoening
-specialisme:
-  - Reumatologie
-aliases:
-status: Todo
-bron: KVS B5
-sub:
-
+title: "Artritis"
+draft: true
+tags: 
+- Reumatologie
+aliases: 
+description:
 ---
 
 

@@ -1,17 +1,13 @@
 ---
-tags: Aandoening
-type: Aandoening
-specialisme:
-  - Longgeneeskunde
+title: Astma
+draft: false
+tags:
+  - Longeneeskunde/Chronische_ziekten
 aliases:
-status: Todo
-bron: KVS A3
-sub: Chronische longziekten
-cssClasses: img-grid, embed-strict
-banner: https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
-banner_y: 0.1964
-banner_title: Astma
+  - astma
+description:
 ---
+
 
 ### I  Achtergrond
 -   Wereldwijd 334 miljoen patiënten

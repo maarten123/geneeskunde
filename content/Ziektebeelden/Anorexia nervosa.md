@@ -1,11 +1,14 @@
 ---
-status: Todo
+title: Anorexia nervosa
+draft: false
 tags:
+  - Psychiatrie/Eetstoornissen
 aliases:
+  - anorexia
   - Anorexia
-specialisme: 
-- Psychiatrie
+description: Een onweerstaanbare drang om vermagering na te streven, wat tot uiting komt in een abnormale houding tegenover voeding, lichaamsvorm en gewicht.Doelbewust onderdrukken van eetlust en hongergevoel.
 ---
+
 
 #### Definitie
 De kern van de stoornis is de ‘**magerzucht**’:

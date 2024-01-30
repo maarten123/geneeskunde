@@ -1,19 +1,17 @@
 ---
+title: Angina pectoris
+draft: false
 tags:
-  - Aandoening_dv
-  - Aandoening
-type: Aandoening
-specialisme:
   - Cardiologie
-aliases: 
-status: Todo
-bron: KVS A2
-sub:
+aliases:
+  - pijn op de borst
   - Pijn op de borst
-cssclasses:
-  - img-grid
-  - embed-strict
+  - POB
+  - pob
+  - angina pectoris
+description:
 ---
+
 
 ### Classificatie van angina pectoris
 **3 hoofd criteria**:

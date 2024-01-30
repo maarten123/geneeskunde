@@ -1,11 +1,13 @@
 ---
-cards-deck: B5 Bewegingsapparaat
-tags:
+title: "Artritis 1"
+draft: false
+tags: 
   - Reumatologie
   - Orthopedie
   - Anatomie
   - B5
-aliases: []
+aliases: 
+description:
 ---
 
 

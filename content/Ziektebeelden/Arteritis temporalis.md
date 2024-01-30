@@ -1,4 +1,17 @@
-- Arteritis temporalis is een ontsteking van de arteria temporalis.
+---
+title: Arteritis temporalis
+draft: false
+tags:
+  - Reumatologie
+aliases:
+  - Giant cell arteritis (GCA)
+  - Giant cell arteritis
+  - GCA
+description: Arteritis temporalis is een ontsteking van de arteria temporalis.
+---
+
+
+- Arteritis temporalis is een ontsteking van de [[arteria temporalis]].
 	- Ook wel Giant cell arteritis (GCA) (hierbij kunnen ook andere vaten zijn aangedaan). Maar de meest voorkomende variant is dus een ontsteking van de superficiale a. temporalis.
 - Auto-immuunaandoening.
 - Ontsteking van de intima, media en adventitia van de aangedane arterien. Met daarnaast infiltratie van lymfocyten, macrofagen en giant cells.
@@ -13,7 +26,7 @@
 
 ### Klinische verschijnselen
 
-- **Hoofdpijn** (33% als initieel symptoom, aanwezig bij 72%)
+- **[[Hoofdpijn]]** (33% als initieel symptoom, aanwezig bij 72%)
 - Arterie voelt hard, warm en pijnlijk aan.
 - **Vermoeidheid en malaise** (20% als initieel symptoom, aanwezig bij 56%)
 - **Pijn in nek, torso, schouder en pelvis**, constant met polymaylgia rheymatica.

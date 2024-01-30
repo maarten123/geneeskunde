@@ -1,22 +1,31 @@
 ---
-banner: https://images.unsplash.com/photo-1615716272071-c588ae57f050?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80
+title: Angelman syndroom
+draft: false
+tags:
+  - Klinische_genetica
+aliases:
+  - angelman syndroom
+description:
 ---
+
+
+
 ###### Hoofdverschijnselen
 ![|350](https://i.imgur.com/i7K7Xr2.png)
-- (Ernstig) verstandelijke beperking
-- Microcefalie
+- (Ernstig) [[verstandelijke beperking]]
+- [[Microcefalie]]
 - [[Ataxie]]
 - Geen spraak
-- Epilepsie
+- [[Epilepsie]]
 - Vaak (onverwacht) veel lachen en glimlachen
 - EEG: trage, hooggevolteerde activiteit met pieken, epileptiforme activiteit; trifasische delta-activiteit met een maximum over de frontale gebieden; 
 - **Faciale dysmorfieën**:
-	- Maxillaire hypoplasie;
-	- Brachycefalie;
+	- [[Maxillaire hypoplasie]];
+	- [[Brachycefalie]];
 	- Prognathie;
-	- Hypertelorisme van de ogen (kan);
+	- [[Hypertelorisme]] van de ogen (kan);
 	- Brede mond;
-	- Diastemata (wijd uit elkaar staande tanden);
+	- [[Diastemata]] (wijd uit elkaar staande tanden);
 
 ###### Genetische oorzaken
 - **Normaalsituatie**: paternale imprinting bij 15q11.2-q13;
