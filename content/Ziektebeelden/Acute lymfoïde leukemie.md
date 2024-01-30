@@ -10,6 +10,7 @@ description: Maligne klonale proliferatie van voorlopercellen van T- of B-cellen
 ---
 
 #### Pathofysiologie
+- Vorm van [[Acute leukemie|acute leukemie]]; 
 - Maligne klonale proliferatie van voorlopercellen van T- of B-cellen;
 - De lymfoïde stamcel groeit uit tot lymfoblast, de lymfoblast wordt eerst een B-lymfoblast of T-lymfoblast, voordat ze B- of T-cellen worden.
 - B-ALL ontstaat uit de B-lymfoblast en T-ALL uit de T-lymfoblast.

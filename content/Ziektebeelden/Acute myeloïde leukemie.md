@@ -12,6 +12,7 @@ description: Ongeremde deling van myeloïde stamcellen of myeloblasten
 
 
 #### Pathofysiologie
+- Vorm van [[Acute leukemie|acute leukemie]]; 
 - Ongeremde deling van **myeloïde stamcellen** of **myeloblasten** 
 - **Mogelijke oorzaken**:
 	- Iatrogeen (na behandeling met chemotherapie);
