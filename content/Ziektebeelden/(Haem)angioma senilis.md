@@ -9,9 +9,7 @@ aliases:
   - Angioma senilis
 description: Angioma senile is een bloedvatverwijding
 ---
-
-![|150](https://i.imgur.com/CszzZxK.png)
-
+<img width="200" src="https://i.imgur.com/CszzZxK.png)"></img>
 
 - Angioma senile is een bloedvatverwijding.
 
