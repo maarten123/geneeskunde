@@ -1,1 +1,1 @@
-<img src="<% tp.system.clipboard() %>"></img>
+<img width="200px" src="<% tp.system.clipboard() %>"></img>
