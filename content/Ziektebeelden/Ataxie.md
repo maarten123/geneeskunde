@@ -1,12 +1,11 @@
 ---
 title: Ataxie
-draft: true
+draft: false
 tags:
   - Todo
 aliases: 
 description:
 ---
-
 
 
 > **Definitie**
@@ -73,9 +72,6 @@ _Cerebellar tremor_ is large amplitude, 2 to 3 Hz, and may involve many body p
 - Geen medicatie specefiek voor ataxie
 - Fysiotherapie
 - Afhankelijk van onderliggende oorzaak
-
-
-
 ##### Mentions
 ```dataview
 
