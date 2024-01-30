@@ -11,7 +11,10 @@ description:
 
 
 ###### Hoofdverschijnselen
-![|350](https://i.imgur.com/i7K7Xr2.png)
+
+<img width="300px" src="https://i.imgur.com/i7K7Xr2.png"></img>
+
+
 - (Ernstig) [[verstandelijke beperking]]
 - [[Microcefalie]]
 - [[Ataxie]]
