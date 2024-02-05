@@ -19,5 +19,7 @@ description:
     - Vaak wordt er in de omgeving van de atresie en fistel gevormd op en afwijkende plaats of naar een ander orgaan.
     - En buikoverzichtsfoto van en pasgeborene met atresie toont een karakteristiek beeld dat bekend staat als **double bubble**.
 
-![|350](https://i.imgur.com/FmUR3ov.png)
+<img width="300px" src="https://i.imgur.com/FmUR3ov.png"></img>
+
+
 **Bouble Bubble Sign of Duodenal Atresia**
