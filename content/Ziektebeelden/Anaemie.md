@@ -102,11 +102,7 @@ Er komt ook altijd wat intact hemoglobine in de bloedsomloop.Dit wordt gebonden
 - Analyseer elke patiënt met anemie systematisch.
  - Probeer eerst te achterhalen wat de oorzaak van de anemie is, voor je na gaat denken over de exacte diagnose.
 
-
-![[Anaemie]]
-
 #### Anemie: klachten en symptomen
-
 - o.a: 
 	- Bleekheid (bijv. Lippen/gelaat/conjunctivae)
 	- Verminderd O2 transport
@@ -172,71 +168,60 @@ Realiseer je dat de stroomdiagrammen hulpmiddelen zijn, maar geen absolute waarh
 ### B2 | Gestoorde aanmaak
 Voor de hematopoëse zijn een goed werkend beenmerg en voldoende bouwstoffen noodzakelijk. 
 
-````col
-```col-md
-flexGrow=1
-===
+
 #### B2.1 Tekort aan bouwstoffen
 - ijzer
 - vitamine B12
 - foliumzuur
 - erytropoëtine (EPO)
-```
-```col-md
-flexGrow=1
-===
+
 #### B2.2 Beenmergziekten
 - anemie door chornische ziekte (ACD)
 - pure red cell aplasie
 - beenmerginfiltratie
 - sideroblastaire anemie  
-```
-````
 
 #### B2.1 | Anemie door tekort aan bouwstoffen 
 
-```ad-info
-title: IJzer metabolisme
-collapse: closed
 
-**Ijzer**: ijzergebreksanemie en de ijzerkringloop
-- Ijzer odig voor synthese van haem;
-- 1-2 mg ijzer per dag;
-- Kan maximaal 1mg per dag uitscheiden:
-	- Daarom moet ijzer gereguleerd op worden genomen;
-
-![|450](https://i.imgur.com/23BDL9e.png)
-![|350](https://i.imgur.com/VcZ1j6C.png)
-
-In de voeding komt ijzer komt ijzer in twee vormen voor:
-- Tweewaardig complex ($\ce{Fe^2+}$): plantaardige voeding;
-- Ijzer in haem: vlees;
-	- Wordt eerst gereduceerd tot een tweewaardig complex voordat opname mogelijk is. 
-
-**Opname**
-- $\ce{Fe^3+}$ moet eerst worden omgezet in $\ce{Fe^2+}$.
-- $\ce{Fe^2+}$ wordt opgenomen door de mucosacel.
-	- Kan hier tijdelijk worden opgeslagen, gebonden aan ferritine als $\ce{Fe^3+}$. 
-- $\ce{Fe^3+}$ bindt aan aan transferrine -> $\ce{Fe^3+}$-transferrine, om in het plasma opgenomen te worden.
-- $\ce{Fe^3+}$ wordt sterk gereguleerd door hepsidine, acute fase eiwit geproduceerd in de lever, omdat de uitscheiding maar beperkt is.
-
-Aldaar wordt een deel geoxideerd tot Fe 3+ en gebonden aan het eiwit apoferritine, vastgelegd als ferritine. Als dit ferritine-ijzer gedurende de twee- à driedaagse levensduur van de darmepitheelcellen niet wordt gemobiliseerd, verdwijnt het via desquamatie van de cellen van de toppen van de villi met de darminhoud. Een ander deel van het geresorbeerde tweewaardige ijzer verlaat met behulp van ferroportine de basolaterale zijde van de mucosacel en komt zo in het plasma, alwaar het in driewaardige vorm gebonden wordt aan een alfa 1-globuline: het transferrine, dat 3% van het totale plasma-eiwit uitmaakt. Dit eiwit is in normale omstandigheden slechts voor ongeveer 30% (spreiding: 15-50%) verzadigd met ijzer. Het gedeelte dat nog ijzer kan binden is de zogenoemde onverzadigde of latente ijzerbindingscapaciteit. De totale ijzerbindingscapaciteit (TYBC) bedraagt 45-72 µmol/l. Het normale plasma-ijzergehalte bedraagt 11-32 µmol/l.
-
-![](https://i.imgur.com/hJjbeAE.png)
-
-
-De intestinale ijzerresorptie wordt gereguleerd door het hormoon hepcidine, een acutefase-eiwit dat wordt geproduceerd in de lever, en ferroportine, een ijzerexporterend eiwit aan de basolaterale kant van de cel. Hepcidine bindt aan ferroportine, dit complex wordt door de cel opgenomen en afgebroken. Hierdoor wordt de intestinale opname van ijzer naar de bloedbaan geremd. Bij een lage concentratie hepcidine wordt geen of minder ferroportine afgebroken, ijzer wordt in de darmen opgenomen en bereikt gemakkelijker de bloedbaan. Op dezelfde manier reguleren hepcidine en ferroportine ook de opslag en mobilisatie van ijzer in de macrofagen
-
-Vanuit het plasma gaat het ijzer voor het grootste deel naar het beenmerg; een deel gaat echter ook naar de lever en de milt, waar het als ferritine en hemosiderine (een polymerisatieproduct van o.a. ferritine en gedenatureerd ferritine) wordt opgeslagen in macrofagen. In het beenmerg wordt het transferrine-ijzer door de kernhoudende voorlopers van de erytrocyten opgenomen via transferrinereceptoren (TfR) en vervolgens geïncorporeerd in het hemoglobinemolecuul. In het plasma komt ook een oplosbare (soluble) vorm van de TfR (sTfR) voor. De concentratie sTfR weerspiegelt de totale hoeveelheid membraangebonden TfR. Bij ijzergebrek en een toename van het aantal rode voorlopercellen stijgt de concentratie sTfR in plasma. In de rode voorlopercellen wordt ijzer ook opgeslagen als ferritine, hetgeen met bepaalde kleuringen zichtbaar kan worden gemaakt. Deze ferritinebevattende cellen noemt men sideroblasten; ze kunnen tot 50% van alle rode-celvoorlopers uitmaken. Vrijwel al dit overtollig ijzer wordt uitgedreven alvorens de cellen het beenmerg verlaten. De rest wordt door de milt verwijderd. Het is belangrijk deze normale beenmergsideroblasten te onderscheiden van de zogenoemde ringsideroblasten, waarin het ijzer in een abnormale vorm is opgeslagen in mitochondriën. Het lichaam neemt in het algemeen slechts zoveel ijzer op dat het minimale dagelijkse verlies wordt gecompenseerd. Via een nog onbekend mechanisme kan de absorptie echter worden verhoogd bij veranderde lichaamsijzervoorraden. Helaas gebeurt dit ook bij een verhoogde cel-turnover, zoals voorkomt bij ziekten met een verstoorde erytrocytenaanmaak, zoals thalassemie. Omdat bij deze patiënten de ijzervoorraad meestal al verhoogd is, kan dit mechanisme bijdragen aan het onstaan van ijzerstapeling, vooral als ook frequent erytrocytentransfusies worden gegeven.
-
-
-
-
-
-
+> [!info] IJzer metabolisme
+> 
+> **Ijzer**: ijzergebreksanemie en de ijzerkringloop
+> - Ijzer odig voor synthese van haem;
+> - 1-2 mg ijzer per dag;
+> - Kan maximaal 1mg per dag uitscheiden:
+> 	- Daarom moet ijzer gereguleerd op worden genomen;
+> 
+> ![|450](https://i.imgur.com/23BDL9e.png)
+> ![|350](https://i.imgur.com/VcZ1j6C.png)
+> 
+> In de voeding komt ijzer komt ijzer in twee vormen voor:
+> - Tweewaardig complex ($\ce{Fe^2+}$): plantaardige voeding;
+> - Ijzer in haem: vlees;
+> 	- Wordt eerst gereduceerd tot een tweewaardig complex voordat opname mogelijk is. 
+> 
+> **Opname**
+> - $\ce{Fe^3+}$ moet eerst worden omgezet in $\ce{Fe^2+}$.
+> - $\ce{Fe^2+}$ wordt opgenomen door de mucosacel.
+> 	- Kan hier tijdelijk worden opgeslagen, gebonden aan ferritine als $\ce{Fe^3+}$. 
+> - $\ce{Fe^3+}$ bindt aan aan transferrine -> $\ce{Fe^3+}$-transferrine, om in het plasma opgenomen te worden.
+> - $\ce{Fe^3+}$ wordt sterk gereguleerd door hepsidine, acute fase eiwit geproduceerd in de lever, omdat de uitscheiding maar beperkt is.
+> 
+> Aldaar wordt een deel geoxideerd tot Fe 3+ en gebonden aan het eiwit apoferritine, vastgelegd als ferritine. Als dit ferritine-ijzer gedurende de twee- à driedaagse levensduur van de darmepitheelcellen niet wordt gemobiliseerd, verdwijnt het via desquamatie van de cellen van de toppen van de villi met de darminhoud. Een ander deel van het geresorbeerde tweewaardige ijzer verlaat met behulp van ferroportine de basolaterale zijde van de mucosacel en komt zo in het plasma, alwaar het in driewaardige vorm gebonden wordt aan een alfa 1-globuline: het transferrine, dat 3% van het totale plasma-eiwit uitmaakt. Dit eiwit is in normale omstandigheden slechts voor ongeveer 30% (spreiding: 15-50%) verzadigd met ijzer. Het gedeelte dat nog ijzer kan binden is de zogenoemde onverzadigde of latente ijzerbindingscapaciteit. De totale ijzerbindingscapaciteit (TYBC) bedraagt 45-72 µmol/l. Het normale plasma-ijzergehalte bedraagt 11-32 µmol/l.
+> 
+> ![](https://i.imgur.com/hJjbeAE.png)
+> 
+> 
+> De intestinale ijzerresorptie wordt gereguleerd door het hormoon hepcidine, een acutefase-eiwit dat wordt geproduceerd in de lever, en ferroportine, een ijzerexporterend eiwit aan de basolaterale kant van de cel. Hepcidine bindt aan ferroportine, dit complex wordt door de cel opgenomen en afgebroken. Hierdoor wordt de intestinale opname van ijzer naar de bloedbaan geremd. Bij een lage concentratie hepcidine wordt geen of minder ferroportine afgebroken, ijzer wordt in de darmen opgenomen en bereikt gemakkelijker de bloedbaan. Op dezelfde manier reguleren hepcidine en ferroportine ook de opslag en mobilisatie van ijzer in de macrofagen
+> 
+> Vanuit het plasma gaat het ijzer voor het grootste deel naar het beenmerg; een deel gaat echter ook naar de lever en de milt, waar het als ferritine en hemosiderine (een polymerisatieproduct van o.a. ferritine en gedenatureerd ferritine) wordt opgeslagen in macrofagen. In het beenmerg wordt het transferrine-ijzer door de kernhoudende voorlopers van de erytrocyten opgenomen via transferrinereceptoren (TfR) en vervolgens geïncorporeerd in het hemoglobinemolecuul. In het plasma komt ook een oplosbare (soluble) vorm van de TfR (sTfR) voor. De concentratie sTfR weerspiegelt de totale hoeveelheid membraangebonden TfR. Bij ijzergebrek en een toename van het aantal rode voorlopercellen stijgt de concentratie sTfR in plasma. In de rode voorlopercellen wordt ijzer ook opgeslagen als ferritine, hetgeen met bepaalde kleuringen zichtbaar kan worden gemaakt. Deze ferritinebevattende cellen noemt men sideroblasten; ze kunnen tot 50% van alle rode-celvoorlopers uitmaken. Vrijwel al dit overtollig ijzer wordt uitgedreven alvorens de cellen het beenmerg verlaten. De rest wordt door de milt verwijderd. Het is belangrijk deze normale beenmergsideroblasten te onderscheiden van de zogenoemde ringsideroblasten, waarin het ijzer in een abnormale vorm is opgeslagen in mitochondriën. Het lichaam neemt in het algemeen slechts zoveel ijzer op dat het minimale dagelijkse verlies wordt gecompenseerd. Via een nog onbekend mechanisme kan de absorptie echter worden verhoogd bij veranderde lichaamsijzervoorraden. Helaas gebeurt dit ook bij een verhoogde cel-turnover, zoals voorkomt bij ziekten met een verstoorde erytrocytenaanmaak, zoals thalassemie. Omdat bij deze patiënten de ijzervoorraad meestal al verhoogd is, kan dit mechanisme bijdragen aan het onstaan van ijzerstapeling, vooral als ook frequent erytrocytentransfusies worden gegeven.
+> 
+> 
+> 
+> 
+> 
 
 
-```
 
 
 ##### IJzergebreksanemie
@@ -271,24 +256,22 @@ Ijzergebreksanemie is de meest voorkomende vorm van anemie (vrouwen > mannen).
 - Opname van vitamine B12 in het ileum (nadat het gebonden is aan intrinsic factor (IF) geproduceerd in de maag) en opname van foliumzuur in het duodenum.
 - Er is sprake van gestoorde aanmaak $\ce{->}$ reticulocyten zijn laag. 
 
-```ad-example
-title: Oorzaken vitamine B12 deficiëntie
-- Deficiënt dieet (veganisten, alcoholisten) 
-- Laag IF (auto-immuungastritis, maagresectie)
-- Verbruik darm (bacteriële overgroei, wormen)
-- Malabsorptie (M. Crohn, ileumresectie) 
-- Medicatie (metformine) 
+> [!NOTE] Oorzaken vitamine B12 deficiëntie
+>- Deficiënt dieet (veganisten, alcoholisten) 
+>- Laag IF (auto-immuungastritis, maagresectie)
+>- Verbruik darm (bacteriële overgroei, wormen)
+>- Malabsorptie (M. Crohn, ileumresectie) 
+>- Medicatie (metformine) 
 
-```
 
-```ad-info
-title: Oorzaken foliumzuur deficiëntie
 
-- Deficiënt dieet (ouderen, alcoholisten)
-- Verhoogde behoefte (zwangerschap, chronische hemolyse) 
-- Malabsorptie (bijvoorbeeld spruw) 
-- Geneesmiddelen gebruik (methotrexaat trimethoprim, fenytoïne) 
-```
+
+> [!NOTE] Oorzaken foliumzuur deficiëntie
+> - Deficiënt dieet (ouderen, alcoholisten)
+> - Verhoogde behoefte (zwangerschap, chronische hemolyse) 
+> - Malabsorptie (bijvoorbeeld spruw) 
+> - Geneesmiddelen gebruik (methotrexaat trimethoprim, fenytoïne) 
+
 
 **Kliniek**
 - Beide vormen zijn qua kliniek nauwelijks van elkaar te onderscheiden.
