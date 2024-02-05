@@ -23,7 +23,7 @@ Anaemie kan een licht gevoel in het hoofd geven, met name bij opstaan en inspann
 	- Hoofdstuk 3: verhoogde afbraak  
 
 
-### A | Achtergrond
+## A | Achtergrond
 #### Definitie
 - **Anemie** is een toestand waarin het aantal **erythrocyten en/of de hemoglobine concentratie** in het perifere bloed lager is dan normaal voor de leeftijd en het geslacht.
 - Anemie is een **laboratorium diagnose**, geen aandoening, het kan een symptoom van een onderliggende ziekte zijn. Ga dus altijd op zoek naar een verklaring voor de anemie.
