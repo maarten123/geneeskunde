@@ -3,6 +3,7 @@ title: Ataxie
 draft: false
 tags:
   - Todo
+  - Ziektebeeld
 aliases: 
 description:
 ---

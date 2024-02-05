@@ -4,6 +4,7 @@ draft: false
 tags:
   - Interne_geneeskunde
   - Eerstelijnsgeneeskunde
+  - Ziektebeeld
 aliases:
   - anemie
   - Anemie

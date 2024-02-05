@@ -3,6 +3,8 @@ title: Angelman syndroom
 draft: false
 tags:
   - Klinische_genetica
+  - Ziektebeeld
+  - Syndroom
 aliases:
   - angelman syndroom
 description:
