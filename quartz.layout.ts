@@ -71,7 +71,7 @@ Component.Graph({
     centerForce: 0.3,
     linkDistance: 30,
     fontSize: 0.3,
-    opacityScale: 1,
+    opacityScale: 2,
     removeTags: [], // what tags to remove from the graph
     showTags: true, // whether to show tags in the graph
   },
