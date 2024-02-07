@@ -41,8 +41,8 @@ description:
 
 - **Dyspareunie kan vele oorzaken hebben en is meestal multifactorieel bepaald.**
 
-![|350](https://i.imgur.com/dTBeMro.png)
-![|350](https://i.imgur.com/5HEOcmw.png)
+<img width="300px" src="https://i.imgur.com/dTBeMro.png"></img>
+<img width="300px" src="https://i.imgur.com/5HEOcmw.png"></img>
 
 
 

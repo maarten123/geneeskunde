@@ -14,7 +14,7 @@ Relatieve afname bloedvolume door **perifere vasodilatatie (kleine vaten)**
 - Afname preload en verminderde cardiac output;
 - Onvoldoende weefseloxygenatie;
 
-![|200](https://i.imgur.com/706s5nr.png)
+<img width="200px" src="https://i.imgur.com/706s5nr.png"></img>
 
 ### Etiologie
 #### Septisch (sepsis)
@@ -40,7 +40,7 @@ Drugs- of toxinereacties die in verband kunnen worden gebracht met shock of SIRS
 
 
 ### Lichamelijk onderzoek
-![](https://i.imgur.com/uV1Gg0Y.png)
+<img width="400px" src="https://i.imgur.com/uV1Gg0Y.png"></img>
 
 
 ### Behandeling
