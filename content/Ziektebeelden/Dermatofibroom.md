@@ -5,7 +5,7 @@ tags:
   - Dermatologie/Huidtumoren
   - Ziektebeeld
 aliases: 
-description:
+description: Dermatofibroom
 ---
 
 ![|250](https://i.imgur.com/CsZnlE1.png)
