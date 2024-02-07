@@ -2,7 +2,7 @@
 title: Foetale groeistoornissen
 draft: false
 tags:
-  - Kindergeneeskunde/Groei
+  - Kindergeneeskunde/Groei-Ontwikkeling
 aliases:
   - Small for gestational age
   - SGA
