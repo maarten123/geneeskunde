@@ -106,7 +106,9 @@ Volgorde van het optreden van symptomen:
 
 
 Patroon:
-![|100](https://i.imgur.com/jt08iyY.png)
+
+
+<img width="150px" src="https://i.imgur.com/jt08iyY.png"></img>
 
 ###### Diagnose
 
@@ -122,13 +124,13 @@ De diagnostiek bij MG bestaat uit verschillende delen:
 2. EGM
     - Meestal bij twijfel.
     - Kenmerkend voor MG is dat de amplitude afneemt bij herhaalde stimulatie.
-    -  ![|200](https://i.imgur.com/5Lqe76R.png)
+    -  <img width="200px" src="https://i.imgur.com/5Lqe76R.png"></img>
 3. CT voor eventueel aanwezig thymoom.
     - 15% van patiënten met MG heeft een thymoom en 50% heeft thymushyperplasie.
     - Behandeling thymoom: thymectomie
     - Vaak blijft medicatie nodig na thymectomie, klachten verdwijnen meetstal niet automatisch na ingreep.
 
-![|200](https://i.imgur.com/kZnzQ47.png)
+<img width="350px" src="https://i.imgur.com/kZnzQ47.png"></img>
 
 
 ###### Behandeling
