@@ -7,9 +7,8 @@ aliases:
 description:
 ---
 
-![|400](https://i.imgur.com/C160xB5.jpg)
-![|200](https://i.imgur.com/Q2ex1Nk.png)
-
+<img width="400px" src="https://i.imgur.com/C160xB5.jpg"></img>
+<img width="200px" src="https://i.imgur.com/Q2ex1Nk.png"></img>
 
 > [!IMG]- Details
 > ![|340](https://i.imgur.com/M650jb7.png)
