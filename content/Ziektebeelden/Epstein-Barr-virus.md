@@ -2,7 +2,7 @@
 title: Epstein-Barr-virus
 draft: false
 tags:
-  - Infectiologie
+  - Infectieziekten
 aliases: 
 description:
 ---

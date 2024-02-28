@@ -2,7 +2,7 @@
 title: Bovenste luchtweginfecties
 draft: false
 tags:
-  - Infectiologie/Bovensteluchtweginfecties
+  - Infectieziekten/Bovensteluchtweginfecties
   - Longeneeskunde
 aliases: 
 description:

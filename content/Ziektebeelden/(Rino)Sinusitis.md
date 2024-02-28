@@ -2,7 +2,7 @@
 title: (Rino)Sinusitis
 draft: false
 tags:
-  - Infectiologie/Bovensteluchtweginfecties
+  - Infectieziekten/Bovensteluchtweginfecties
 aliases:
   - Sinusitis
   - Rinosinusitis

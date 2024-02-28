@@ -2,7 +2,7 @@
 title: Epiglottitis
 draft: false
 tags:
-  - Infectiologie/Bovensteluchtweginfecties
+  - Infectieziekten/Bovensteluchtweginfecties
   - Ziektebeeld
 aliases: 
 description:

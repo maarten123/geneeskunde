@@ -3,7 +3,7 @@ title: Acute bronchitis
 draft: false
 tags:
   - Ziektebeeld
-  - Infectiologie/Ondersteluchtweginfecties
+  - Infectieziekten/Ondersteluchtweginfecties
 aliases: 
 description: Korte periode met hoesten en productie van al dan niet purulent sputum. Geen malaise of koorts. Ontsteking van de bronchiën.
 ---

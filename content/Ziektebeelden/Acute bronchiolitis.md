@@ -4,7 +4,7 @@ draft: false
 tags:
   - Ziektebeeld
   - Longeneeskunde
-  - Infectiologie/Ondersteluchtweginfecties
+  - Infectieziekten/Ondersteluchtweginfecties
 aliases: 
 description: Oorzaak respiratoir synctieel virus (RS-virus)
 ---

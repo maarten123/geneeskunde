@@ -2,7 +2,7 @@
 title: Herpes zoster oticus
 draft: false
 tags:
-  - Infectiologie
+  - Infectieziekten
   - KNO/Infecties
 aliases: 
 description:
