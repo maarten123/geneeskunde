@@ -7,12 +7,12 @@ aliases:
 description: "Typisch voor een probleem van de neuromusculaire overgang: klachten nemen toe na inspanning of vermoeidheid (inspanningsintolerantie)."
 ---
 
-
-
 #### De neuromusculaire overgang
-![|250](https://i.imgur.com/IZpVbxR.png)
-![|350](https://i.imgur.com/1EzSx8h.png)
-![|350](https://i.imgur.com/njQbdFS.png)
+| <img width="300px" src="https://i.imgur.com/IZpVbxR.png"></img> | <img width="300px" src="https://i.imgur.com/1EzSx8h.png"></img> | <img width="300px" src="https://i.imgur.com/njQbdFS.png"></img><br> |
+| ---- | ---- | ---- |
+
+
+
 
 1. Elektrisch signaal komt aan bij de neuromusculaire overgang
 2. Door de actiepotentiaal stroomt calcium het axon in
