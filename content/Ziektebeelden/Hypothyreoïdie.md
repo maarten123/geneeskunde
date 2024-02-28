@@ -8,17 +8,8 @@ description:
 ---
 
 #### Symptomen
-![|](https://i.imgur.com/gT3TgiE.png)
+<img width="500px" src="https://i.imgur.com/gT3TgiE.png"></img>
 
-````col
-```col-md
-flexGrow=1
-===
-![](https://i.imgur.com/WVoCmC0.png)
-```
-```col-md
-flexGrow=1
-===
 - Moe
 - Kouwelijk
 - Droge huid
@@ -35,12 +26,8 @@ flexGrow=1
 - Traagheid
 - Krakerige stem
 - Dikke tong
-```
-````
 
-
-
-
+<img width="400px" src="https://i.imgur.com/WVoCmC0.png"></img>
 #### Primair, secundair, tertiair
 - **Primaire hypothyreoïdie**: in de schildklier zelf;
 	- TSH verhoogd, fT4 verlaagd;
