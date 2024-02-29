@@ -3,8 +3,9 @@ title: Exocriene pancreasinsufficiëntie
 draft: false
 tags:
   - MDL/Malabsorbtie-maldigestie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

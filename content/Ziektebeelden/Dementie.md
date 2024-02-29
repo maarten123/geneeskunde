@@ -5,7 +5,7 @@ tags:
   - Geriatrie/PG
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### 1. Syndromen

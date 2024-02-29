@@ -5,8 +5,9 @@ tags:
   - Neurologie/Acute_neurologie
   - Neurologie/Infecties
   - Infectieziekten
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Meningitis

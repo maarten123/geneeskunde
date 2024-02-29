@@ -1,8 +1,9 @@
 ---
-title: "Hallicunatie"
+title: Hallicunatie
 draft: false
-tags: 
-- Psychiatrie
+tags:
+  - Psychiatrie
+  - Ziektebeeld
 aliases: 
 description: 
 ---

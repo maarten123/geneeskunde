@@ -1,11 +1,11 @@
 ---
-title: "Gastro-enteritits"
+title: Gastro-enteritits
 draft: false
-tags: 
-- MDL
-- Ziektebeeld
+tags:
+  - MDL
+  - Ziektebeeld
 aliases: gastro-enteritits
-description:
+description: 
 ---
 
 

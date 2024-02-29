@@ -1,9 +1,18 @@
 ---
-tags: Aandoening
+tags:
+  - A
+  - a
+  - n
+  - d
+  - o
+  - e
+  - i
+  - g
+  - Ziektebeeld
 type: Aandoening
 specialisme:
   - Infectieziekten
-aliases:
+aliases: 
 status: Todo
 bron: KVS E1
 sub: Kinderziekten

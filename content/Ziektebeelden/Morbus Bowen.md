@@ -3,8 +3,9 @@ title: Morbus Bowen
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

@@ -3,8 +3,9 @@ title: Infectieuze of septische artritis
 draft: false
 tags:
   - Interne_geneeskunde/Reumatologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

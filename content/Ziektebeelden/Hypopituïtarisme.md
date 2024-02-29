@@ -3,8 +3,9 @@ title: Hypopituïtarisme
 draft: false
 tags:
   - Endocrinologie/Hypofyse
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Definities

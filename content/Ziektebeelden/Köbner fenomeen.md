@@ -3,9 +3,10 @@ title: Köbner fenomeen
 draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen
+  - Ziektebeeld
 aliases:
   - Isomorf prikkeleffect van Köbner
-description:
+description: 
 ---
 
 #### Definitie

@@ -3,8 +3,9 @@ title: Lentigo maligna
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|150](https://i.imgur.com/1k9xtm4.png)

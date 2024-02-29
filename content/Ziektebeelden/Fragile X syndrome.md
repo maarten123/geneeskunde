@@ -3,10 +3,11 @@ title: Fragile X syndrome
 draft: false
 tags:
   - Klinische_genetica
+  - Ziektebeeld
 aliases:
   - Fragile X
   - fra(X)
-description:
+description: 
 ---
 
 ##### Kenmerken

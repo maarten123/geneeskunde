@@ -3,8 +3,9 @@ title: Multiple sclerose
 draft: false
 tags:
   - Neurologie/Sensibiliteitsstoornissen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Achtergrond

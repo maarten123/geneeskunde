@@ -5,11 +5,12 @@ tags:
   - MDL
   - MDL/Chirurgie
   - Chirurgie/Abdomen
+  - Ziektebeeld
 aliases:
   - Ziekte van Hirschsprung
   - ziekte van Hirschsprung
   - Morbus Hirschsprung
-description:
+description: 
 ---
 
 

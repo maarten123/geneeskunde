@@ -3,8 +3,9 @@ title: Myasthenia gravis
 draft: false
 tags:
   - Neurologie/Neuromusculair
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

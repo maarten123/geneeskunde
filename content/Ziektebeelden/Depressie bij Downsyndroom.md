@@ -5,7 +5,7 @@ tags:
   - Psychiatrie
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Fenotype

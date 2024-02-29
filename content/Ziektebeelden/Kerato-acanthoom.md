@@ -3,8 +3,9 @@ title: Kerato-acanthoom
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

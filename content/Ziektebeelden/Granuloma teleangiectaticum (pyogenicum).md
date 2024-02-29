@@ -3,8 +3,9 @@ title: Granuloma teleangiectaticum (pyogenicum)
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

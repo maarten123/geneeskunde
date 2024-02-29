@@ -3,8 +3,9 @@ title: Hypogonadisme bij de man
 draft: false
 tags:
   - Endocrinologie/Gonadotroop
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 <img width="400px" src="https://i.imgur.com/C160xB5.jpg"></img>

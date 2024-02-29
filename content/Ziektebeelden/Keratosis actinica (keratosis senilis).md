@@ -3,8 +3,9 @@ title: Keratosis actinica (keratosis senilis)
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|150](https://i.imgur.com/CUL7Ttf.png)

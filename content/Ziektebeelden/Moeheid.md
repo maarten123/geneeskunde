@@ -5,8 +5,9 @@ tags:
   - Psychiatrie
   - Interne_geneeskunde
   - Eerstelijnsgeneeskunde
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Definitie

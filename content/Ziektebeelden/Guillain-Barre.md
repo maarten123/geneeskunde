@@ -3,8 +3,9 @@ title: Guillain-Barre
 draft: false
 tags:
   - Neurologie/Sensibiliteitsstoornissen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

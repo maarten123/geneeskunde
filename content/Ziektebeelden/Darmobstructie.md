@@ -5,7 +5,7 @@ tags:
   - MDL/Chirurgie
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Oorzaken voor dunnedarmobstructies

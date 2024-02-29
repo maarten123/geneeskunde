@@ -5,7 +5,7 @@ tags:
   - Dermatologie/Inflammatoire_dermatosen/erythemato-squameuze_dermatosen
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|350](https://i.imgur.com/mYWZ30M.png)

@@ -3,8 +3,9 @@ title: Influenza
 draft: false
 tags:
   - Infectieziekten/Bovensteluchtweginfecties
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Pathofysiologie

@@ -3,8 +3,9 @@ title: Koorts bij een kind
 draft: false
 tags:
   - Infectieziekten/Kinderziekten
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

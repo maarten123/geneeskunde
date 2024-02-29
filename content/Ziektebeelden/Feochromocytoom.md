@@ -3,8 +3,9 @@ title: Feochromocytoom
 draft: false
 tags:
   - Endocrinologie/Bijnierschors
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 - **Definitie**: Bijniermerg tumor met <u>catecholamine-overproductie</u>; 

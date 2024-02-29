@@ -3,8 +3,9 @@ title: Molluscum contagiosum
 draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|200](https://i.imgur.com/p7CbgbG.png)

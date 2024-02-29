@@ -1,11 +1,11 @@
 ---
-title: "Geriatrische syndromen"
+title: Geriatrische syndromen
 draft: false
-tags: 
-- Geriatrie
-- Ziektebeeld
+tags:
+  - Geriatrie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

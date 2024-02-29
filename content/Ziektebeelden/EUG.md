@@ -5,5 +5,5 @@ tags:
   - Gynaecologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---

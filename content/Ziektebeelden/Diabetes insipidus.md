@@ -3,8 +3,9 @@ title: Diabetes insipidus
 draft: false
 tags:
   - Endocrinologie/Hypofyse
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

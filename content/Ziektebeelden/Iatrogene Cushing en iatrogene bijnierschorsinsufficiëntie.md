@@ -3,8 +3,9 @@ title: Iatrogene Cushing en iatrogene bijnierschorsinsufficiëntie
 draft: false
 tags:
   - Endocrinologie/Bijnier
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

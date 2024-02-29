@@ -4,8 +4,9 @@ draft: true
 tags:
   - Neurologie/Hoofdpijn
   - KNO/Vestibulologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

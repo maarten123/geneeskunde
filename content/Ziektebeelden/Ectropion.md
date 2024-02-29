@@ -5,7 +5,7 @@ tags:
   - Gynaecologie/Oncologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 <img width="100px" src="https://i.imgur.com/izc3QVu.png"></img>

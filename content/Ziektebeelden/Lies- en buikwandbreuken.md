@@ -3,8 +3,9 @@ title: Lies- en buikwandbreuken
 draft: false
 tags:
   - Chirurgie/Abdomen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Ontstaan en klinische betekenis

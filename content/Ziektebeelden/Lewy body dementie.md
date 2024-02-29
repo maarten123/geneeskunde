@@ -5,10 +5,11 @@ tags:
   - Psychiatrie/Degeneratief
   - Geriatrie/PG
   - Dementie
+  - Ziektebeeld
 aliases:
   - LBD
   - Lewy body
-description:
+description: 
 ---
 
 - **Beloop:** geleidelijk ontstaan, langzaam progressief

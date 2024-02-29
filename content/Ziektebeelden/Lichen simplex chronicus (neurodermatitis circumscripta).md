@@ -3,8 +3,9 @@ title: Lichen simplex chronicus (neurodermatitis circumscripta)
 draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|250](https://i.imgur.com/qsts2pn.png)

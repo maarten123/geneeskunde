@@ -3,8 +3,9 @@ title: Extrasystolen en syndromen
 draft: false
 tags:
   - Cardiologie/Ritmestoornissen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Extrasystole

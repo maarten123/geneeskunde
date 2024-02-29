@@ -5,7 +5,7 @@ tags:
   - Longeneeskunde/Infecties
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![](https://i.imgur.com/7EGNrEJ.png)

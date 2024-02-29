@@ -3,8 +3,9 @@ title: Lichen planus
 draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

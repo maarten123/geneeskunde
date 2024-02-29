@@ -3,6 +3,7 @@ title: Foetale groeistoornissen
 draft: false
 tags:
   - Kindergeneeskunde/Groei-Ontwikkeling
+  - Ziektebeeld
 aliases:
   - Small for gestational age
   - SGA
@@ -10,7 +11,7 @@ aliases:
   - FGR
   - Large for gestational age
   - LGA
-description:
+description: 
 ---
 
 

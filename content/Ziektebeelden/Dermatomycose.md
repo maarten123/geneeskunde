@@ -5,7 +5,7 @@ tags:
   - Dermatologie/Infecties
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

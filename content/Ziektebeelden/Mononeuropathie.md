@@ -3,8 +3,9 @@ title: Mononeuropathie
 draft: false
 tags:
   - Neurologie/Sensibiliteitsstoornissen
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

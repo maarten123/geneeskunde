@@ -4,8 +4,9 @@ draft: false
 tags:
   - Neurologie/Bewegingsstoornissen
   - Klinische_genetica
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 - Meest voorkomende<u> autosomaal recessieve </u>[[Ataxie]] (2 / 100,000)

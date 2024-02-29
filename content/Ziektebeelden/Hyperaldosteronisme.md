@@ -3,8 +3,9 @@ title: Hyperaldosteronisme
 draft: false
 tags:
   - Endocrinologie/Bijnier
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

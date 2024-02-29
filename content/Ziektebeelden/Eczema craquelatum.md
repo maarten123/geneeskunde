@@ -9,7 +9,7 @@ aliases:
   - asteatotisch eczeem
   - Craquelé-eczeem
   - craquelé-eczeem
-description:
+description: 
 ---
 
 ![|250](https://i.imgur.com/HbEOEQA.png)

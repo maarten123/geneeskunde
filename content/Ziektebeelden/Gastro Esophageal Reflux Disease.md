@@ -5,7 +5,7 @@ tags:
   - MDL
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Symptomen

@@ -3,8 +3,9 @@ title: Melanoom
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 | ![\|150](https://i.imgur.com/V2DYqui.png) | ![\|150](https://i.imgur.com/4Arf6Vx.png) | ![\|150](https://i.imgur.com/2ydgG7U.png) |

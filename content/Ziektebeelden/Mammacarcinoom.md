@@ -4,8 +4,9 @@ draft: false
 tags:
   - Gynaecologie/Oncologie
   - Oncologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Risicofactoren

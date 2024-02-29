@@ -3,8 +3,9 @@ title: Inborn errors of metabolism
 draft: false
 tags:
   - Klinische_genetica
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Achtergrond

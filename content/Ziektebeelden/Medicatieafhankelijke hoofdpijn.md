@@ -3,8 +3,9 @@ title: Medicatieafhankelijke hoofdpijn
 draft: false
 tags:
   - Neurologie/Hoofdpijn
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 Meest voorkomende type hoofdpijn!

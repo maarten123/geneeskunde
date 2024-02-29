@@ -3,8 +3,9 @@ title: Hypothyreoïdie
 draft: false
 tags:
   - Endocrinologie/Schildklier
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Symptomen

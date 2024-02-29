@@ -4,8 +4,9 @@ draft: false
 tags:
   - Interne_geneeskunde/Hematologie
   - Klinische_genetica
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

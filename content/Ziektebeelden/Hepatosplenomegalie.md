@@ -4,9 +4,10 @@ draft: false
 tags:
   - Interne_geneeskunde
   - Interne_geneeskunde/Hematologie
+  - Ziektebeeld
 aliases:
   - hepatosplenomegalie
-description:
+description: 
 ---
 
 

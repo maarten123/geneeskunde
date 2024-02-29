@@ -1,11 +1,12 @@
 ---
-title: "Hypertensie"
+title: Hypertensie
 draft: false
-tags: 
+tags:
   - Cardiologie
   - CVRM
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Inleiding

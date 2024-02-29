@@ -3,9 +3,10 @@ title: Morbus Menière
 draft: false
 tags:
   - KNO/Vestibulologie
+  - Ziektebeeld
 aliases:
   - Menière
-description:
+description: 
 ---
 
 ### Achtergrond

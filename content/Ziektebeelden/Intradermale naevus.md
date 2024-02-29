@@ -3,8 +3,9 @@ title: Intradermale naevus
 draft: false
 tags:
   - Dermatologie/Huidtumoren
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

@@ -3,8 +3,9 @@ title: Keratoconus
 draft: false
 tags:
   - Oogheelkunde/Degeneratief
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ![|300](https://i.imgur.com/woheTrk.png)

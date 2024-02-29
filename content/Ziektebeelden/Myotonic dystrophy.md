@@ -1,8 +1,14 @@
 ---
 status: Done
-tags: MIN16
+tags:
+  - M
+  - I
+  - N
+  - "1"
+  - "6"
+  - Ziektebeeld
 type: Clinical
-aliases:
+aliases: 
 ---
   
 - Myotonie is een vertraagde relaxatie van de spieren.

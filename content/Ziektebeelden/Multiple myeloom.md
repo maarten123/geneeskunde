@@ -4,9 +4,10 @@ draft: false
 tags:
   - Oncologie/Hemato-oncologie
   - Interne_geneeskunde/Hematologie
+  - Ziektebeeld
 aliases:
   - MM
-description:
+description: 
 ---
 
 

@@ -3,8 +3,9 @@ title: Longemfyseem
 draft: false
 tags:
   - Longeneeskunde
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

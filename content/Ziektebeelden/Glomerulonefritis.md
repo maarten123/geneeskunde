@@ -1,11 +1,11 @@
 ---
-title: "Glomerulonefritis"
+title: Glomerulonefritis
 draft: false
-tags: 
-- Nefrologie
-- Ziektebeeld
+tags:
+  - Nefrologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 **Definitie**: beschadiging van de glomerulus

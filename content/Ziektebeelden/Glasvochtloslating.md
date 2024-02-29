@@ -3,8 +3,9 @@ title: Glasvochtloslating
 draft: false
 tags:
   - Oogheelkunde/Degeneratief
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

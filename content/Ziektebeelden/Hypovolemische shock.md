@@ -3,8 +3,9 @@ title: Hypovolemische shock
 draft: false
 tags:
   - Acute_Geneeskunde
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

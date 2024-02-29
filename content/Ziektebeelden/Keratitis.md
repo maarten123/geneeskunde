@@ -3,8 +3,9 @@ title: Keratitis
 draft: false
 tags:
   - Oogheelkunde/Infecties
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

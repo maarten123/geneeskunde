@@ -6,7 +6,7 @@ tags:
   - CVRM
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### **Anamnese**

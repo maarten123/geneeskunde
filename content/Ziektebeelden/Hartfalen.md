@@ -3,8 +3,9 @@ title: Hartfalen
 draft: false
 tags:
   - Cardiologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 Preload, afterload en contractiliteit zijn belangrijke determinanten van de hartfunctie.

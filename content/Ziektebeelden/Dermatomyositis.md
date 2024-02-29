@@ -5,7 +5,7 @@ tags:
   - Dermatologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 https://www.huidziekten.nl/zakboek/dermatosen/dtxt/Dermatomyositis.htm

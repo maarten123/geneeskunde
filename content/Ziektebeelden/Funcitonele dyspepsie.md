@@ -3,8 +3,9 @@ title: Funcitonele dyspepsie
 draft: false
 tags:
   - MDL
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 **Definitie (volgens Rome IV)**

@@ -3,8 +3,9 @@ title: Korte darmsyndroom (short bowel syndrome)
 draft: false
 tags:
   - MDL
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

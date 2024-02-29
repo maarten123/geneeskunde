@@ -6,7 +6,7 @@ tags:
   - Ziektebeeld
 aliases:
   - eczema seborrhoicum adultorum
-description:
+description: 
 ---
 
 

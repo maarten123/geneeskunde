@@ -3,8 +3,9 @@ title: Migraine
 draft: false
 tags:
   - Neurologie/Hoofdpijn
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

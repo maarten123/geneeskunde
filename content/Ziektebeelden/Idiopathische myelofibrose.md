@@ -3,8 +3,9 @@ title: Idiopathische myelofibrose
 draft: false
 tags:
   - Oncologie/Hemato-oncologie
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

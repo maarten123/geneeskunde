@@ -4,8 +4,9 @@ draft: false
 tags:
   - Longeneeskunde
   - Acute_Geneeskunde
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 ### Achtergrond

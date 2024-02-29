@@ -3,8 +3,9 @@ title: Lactose-intolerantie en lactasedeficiëntie
 draft: false
 tags:
   - MDL/Malabsorbtie-maldigestie
+  - Ziektebeeld
 aliases: Lactose-intolerantie, lactasedeficiëntie, Lactasedeficiëntie
-description:
+description: 
 ---
 
 

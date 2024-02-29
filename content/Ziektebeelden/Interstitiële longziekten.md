@@ -3,8 +3,9 @@ title: Interstitiële longziekten
 draft: false
 tags:
   - Longeneeskunde/Interstitiële_longziekten
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Achtergrond

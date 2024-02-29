@@ -5,8 +5,9 @@ tags:
   - Cardiologie
   - CVRM
   - draft
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 # Hart- en vaatziekten

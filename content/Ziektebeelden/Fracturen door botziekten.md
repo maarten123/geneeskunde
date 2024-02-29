@@ -4,8 +4,9 @@ draft: false
 tags:
   - Interne_geneeskunde
   - Acute_Geneeskunde
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

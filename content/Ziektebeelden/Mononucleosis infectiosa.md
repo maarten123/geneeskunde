@@ -4,11 +4,12 @@ draft: false
 tags:
   - Lymfadenopathie
   - Infectieziekten
+  - Ziektebeeld
 aliases:
   - ziekte van Pfeiffer
   - Pfeiffer
   - kissing disease
-description:
+description: 
 ---
 
 > [!anamnese] Klinische kenmerken

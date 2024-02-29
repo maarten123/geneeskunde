@@ -3,8 +3,9 @@ title: Frontotemporale dementie
 draft: false
 tags:
   - Psychiatrie/Degeneratief
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 

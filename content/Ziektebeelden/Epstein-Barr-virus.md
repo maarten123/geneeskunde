@@ -3,8 +3,9 @@ title: Epstein-Barr-virus
 draft: false
 tags:
   - Infectieziekten
+  - Ziektebeeld
 aliases: 
-description:
+description: 
 ---
 
 #### Klinische verschijnselen 
