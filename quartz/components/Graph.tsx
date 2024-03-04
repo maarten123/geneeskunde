@@ -47,7 +47,7 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.1,
     opacityScale: 1,
     showTags: true,
-    removeTags: [],
+    removeTags: ["Ziektebeeld"],
   },
 }
 
