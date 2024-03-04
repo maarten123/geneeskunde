@@ -6,9 +6,6 @@ tags:
 aliases: 
 description:
 ---
-
-
-
 #### Aspecifieke rugpijn
 - Rugpijn zonder duidelijke of niet specifiek aan te geven anatomische, systemische of structurele afwijkingen.
 - Rugpijn zonder symptomen die duiden op een wel bekende oorzaak van rugpijn.

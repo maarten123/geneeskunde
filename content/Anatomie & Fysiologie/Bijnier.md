@@ -1,9 +1,10 @@
 ---
-title: "Bijnier"
+title: Bijnier
 draft: false
-tags: 
-- Anatomie
-- Fysiologie
+tags:
+  - Anatomie
+  - Fysiologie
+  - Endocrinologie/Bijnier
 aliases: 
 description:
 ---

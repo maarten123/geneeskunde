@@ -1,13 +1,5 @@
 ---
 tags:
-  - A
-  - a
-  - n
-  - d
-  - o
-  - e
-  - i
-  - g
   - Ziektebeeld
 type: Aandoening
 specialisme:
