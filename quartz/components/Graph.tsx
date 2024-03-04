@@ -44,7 +44,7 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.1,
+    fontSize: 0.3,
     opacityScale: 1,
     showTags: true,
     removeTags: ["Ziektebeeld"],

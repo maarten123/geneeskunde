@@ -8,11 +8,6 @@ tags:
 
 
 
-
----
-banner: https://noonansyndroom.nl/wp-content/uploads/2021/10/DSC_0023.jpg
----
-
 <img width="200px" src="https:/i.imgur.com/VRJ7Evd.png"></img>
   
   **Kliniek**
