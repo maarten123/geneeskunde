@@ -7,7 +7,8 @@ tags:
 aliases:
   - Vasculitis
   - vasculitis
-description:
+description: 
+publish: true
 ---
 
 ### Diagnose

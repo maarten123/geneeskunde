@@ -7,6 +7,7 @@ tags:
 aliases:
   - Blaasjeseczeem
 description: Een puur beschrijvende term voor eczeem met blaasjes.
+publish: true
 ---
 
 

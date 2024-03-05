@@ -5,7 +5,8 @@ tags:
   - Klinische_genetica/Ciliopathie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ##### Ciliair dysfunctioneren treft veel verschillende organen ➔ ciliopathie.

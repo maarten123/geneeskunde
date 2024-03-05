@@ -5,5 +5,6 @@ tags:
   - Medicatie/Antibiotica
 aliases:
   - macroliden
-description:
+description: 
+publish: true
 ---

@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Meest voorkomende type hoofdpijn!

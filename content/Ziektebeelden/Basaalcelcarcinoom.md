@@ -1,10 +1,11 @@
 ---
-title: "Basaalcelcarcinoom"
+title: Basaalcelcarcinoom
 draft: false
-tags: 
-- Dermatologie/Huidtumoren
+tags:
+  - Dermatologie/Huidtumoren
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

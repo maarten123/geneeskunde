@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: Levensbedreigende situatie als gevolg van cortisol tekort;
+publish: true
 ---
 
 **Definitie**: Levensbedreigende situatie als gevolg van cortisol tekort;

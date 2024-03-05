@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Aan het oog met de neuritis

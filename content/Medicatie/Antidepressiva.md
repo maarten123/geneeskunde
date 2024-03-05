@@ -5,7 +5,8 @@ tags:
   - Medicatie/Antidepressiva
 aliases:
   - antidepressiva
-description:
+description: 
+publish: true
 ---
 
 #### 3 klassen

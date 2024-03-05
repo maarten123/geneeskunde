@@ -5,7 +5,8 @@ tags:
   - Chirurgie/Abdomen
   - Acute_Geneeskunde
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### Klachten

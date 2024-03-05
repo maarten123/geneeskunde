@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 ![](https://i.imgur.com/7EGNrEJ.png)

@@ -6,7 +6,8 @@ tags:
   - Fysiologie
   - Neurologie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Certain area in brain such as hypothalamus, amygdala larger in man

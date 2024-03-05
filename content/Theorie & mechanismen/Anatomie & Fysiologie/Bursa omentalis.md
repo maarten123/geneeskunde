@@ -5,7 +5,8 @@ tags:
   - Anatomie
   - Chirurgie/Abdomen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

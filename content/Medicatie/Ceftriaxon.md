@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Antibiotica/Cefalosporinen
 aliases: 
-description:
+description: 
+publish: true
 ---

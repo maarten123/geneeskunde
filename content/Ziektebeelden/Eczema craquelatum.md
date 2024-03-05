@@ -10,6 +10,7 @@ aliases:
   - Craquelé-eczeem
   - craquelé-eczeem
 description: 
+publish: true
 ---
 
 ![|250](https://i.imgur.com/HbEOEQA.png)

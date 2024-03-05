@@ -7,6 +7,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 - Meest voorkomende<u> autosomaal recessieve </u>[[Ataxie]] (2 / 100,000)

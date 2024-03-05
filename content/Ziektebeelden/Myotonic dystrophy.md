@@ -9,6 +9,7 @@ tags:
   - Ziektebeeld
 type: Clinical
 aliases: 
+publish: true
 ---
   
 - Myotonie is een vertraagde relaxatie van de spieren.

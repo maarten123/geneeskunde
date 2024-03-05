@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Antibiotica
 aliases: fluorochinolonen
-description:
+description: 
+publish: true
 ---

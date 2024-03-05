@@ -6,7 +6,8 @@ tags:
   - Ziektebeeld
 aliases:
   - Eilandjes voor de kust
-description:
+description: 
+publish: true
 ---
 
 

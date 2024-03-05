@@ -10,6 +10,7 @@ aliases:
   - Pfeiffer
   - kissing disease
 description: 
+publish: true
 ---
 
 > [!anamnese] Klinische kenmerken

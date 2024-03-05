@@ -5,7 +5,8 @@ tags:
   - Geriatrie
   - Mechanismen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ## Veroudering

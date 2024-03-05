@@ -10,6 +10,7 @@ aliases:
   - LBD
   - Lewy body
 description: 
+publish: true
 ---
 
 - **Beloop:** geleidelijk ontstaan, langzaam progressief

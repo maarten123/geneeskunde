@@ -6,7 +6,8 @@ tags:
   - Ziektebeeld
 aliases:
   - Donderslag
-description:
+description: 
+publish: true
 ---
 
 #### Kenmerken

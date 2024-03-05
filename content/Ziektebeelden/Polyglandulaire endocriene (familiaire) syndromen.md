@@ -6,6 +6,7 @@ tags:
   - Klinische_genetica
 aliases: 
 description: 
+publish: true
 ---
 
 - **Polyglandulair auto-immuun syndroom type 1 (PAIS1)**

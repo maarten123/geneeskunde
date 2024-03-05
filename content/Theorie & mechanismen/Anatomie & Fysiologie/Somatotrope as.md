@@ -9,7 +9,8 @@ aliases:
   - Groeihormoon
   - somatotrope as
   - GH
-description:
+description: 
+publish: true
 ---
 
 #### Groeihormoon

@@ -6,7 +6,8 @@ tags:
   - draft
 aliases:
   - amoxicilline
-description:
+description: 
+publish: true
 ---
 #### Indicaties
 

@@ -5,7 +5,8 @@ tags:
   - MDL
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Cholestase = verminderde galsecretie.

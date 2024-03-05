@@ -1,9 +1,13 @@
 ---
 status: 
 tags: 
-type:
+type: 
 compleet: false
-aliases: [boulimia nervosa, Boulimia, boulimia]
+aliases:
+  - boulimia nervosa
+  - Boulimia
+  - boulimia
+publish: true
 ---
 
 #### Kenmerken boulimia nervosa

@@ -8,6 +8,7 @@ aliases:
   - Naevus
   - (Papillomateuze) naevus naevocellularis
 description: Een naevus naevocellularis is een goedaardige huidafwijking die berust op een overmaat van naevuscellen. Men spreekt ook wel van een naevus pigmentosus of moedervlek.
+publish: true
 ---
 
 <img width="200px" src="https://i.imgur.com/gQDP5iX.png"></img>

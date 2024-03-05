@@ -8,6 +8,7 @@ aliases:
 status: Todo
 bron: KVS E1
 sub: Kinderziekten
+publish: true
 ---
 
 

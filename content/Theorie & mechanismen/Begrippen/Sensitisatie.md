@@ -7,7 +7,8 @@ tags:
   - Begrippen
 aliases:
   - sensitisatie
-description:
+description: 
+publish: true
 ---
 
 **Sensitisatie**: prikkels worden steeds sterker gevoeld naarmate men deze prikkels vaker heeft ervaren. 

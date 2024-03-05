@@ -1,13 +1,14 @@
 ---
-title: "Biallelisch Lynch syndroom"
+title: Biallelisch Lynch syndroom
 draft: false
-tags: 
-- Syndroom
-- Oncologie
-- MDL
-- Klinische_Genetica
+tags:
+  - Syndroom
+  - Oncologie
+  - MDL
+  - Klinische_Genetica
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

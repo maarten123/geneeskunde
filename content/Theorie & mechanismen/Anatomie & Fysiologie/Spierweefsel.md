@@ -6,7 +6,8 @@ tags:
   - Histologie
   - Anatomie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ### Drie soorten Spierweefsel:

@@ -7,6 +7,7 @@ tags:
   - Infectieziekten/Ondersteluchtweginfecties
 aliases: 
 description: Oorzaak respiratoir synctieel virus (RS-virus)
+publish: true
 ---
 
 - **Veroorzaakt door**: Respiratoir synctieel virus ([[RS-virus]])

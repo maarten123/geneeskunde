@@ -4,7 +4,8 @@ draft: false
 tags:
   - Dermatologie/Inflammatoire_dermatosen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

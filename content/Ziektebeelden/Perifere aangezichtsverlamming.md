@@ -9,7 +9,8 @@ aliases:
   - Syndroom van Bell
   - Bellverlamming
   - Belse parese
-description:
+description: 
+publish: true
 ---
 
 Het syndroom van Bell, ofwel de idiopathische perifere facialisparese (IPAV) is de meest voorkomende 'oorzaak'.

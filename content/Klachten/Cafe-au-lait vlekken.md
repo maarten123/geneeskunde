@@ -6,7 +6,8 @@ tags:
   - Klacht
   - Dermatologie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ![|450](https://i.imgur.com/3wILM90.png)

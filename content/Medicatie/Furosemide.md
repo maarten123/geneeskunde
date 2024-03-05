@@ -1,10 +1,11 @@
 ---
-title: "Furosemide"
+title: Furosemide
 draft: false
-tags: 
-- Medicatie/Diuretica/Lisdiuretica
+tags:
+  - Medicatie/Diuretica/Lisdiuretica
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ####   Indicaties

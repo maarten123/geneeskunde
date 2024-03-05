@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: Lactose-intolerantie, lactasedeficiëntie, Lactasedeficiëntie
 description: 
+publish: true
 ---
 
 

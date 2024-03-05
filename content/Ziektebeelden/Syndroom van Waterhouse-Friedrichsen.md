@@ -6,7 +6,8 @@ tags:
   - Infectieziekten/Kinderziekten
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 **Deze vorm van septische shock mag je nooit vergeten!** 

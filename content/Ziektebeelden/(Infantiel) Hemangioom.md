@@ -8,6 +8,7 @@ aliases:
   - Hemangioom
   - (Infantiel) Hemangioom
 description: "Goedaardige tumor van de bloedvaten: benigne endotheelproliferatie die soms direct bij de geboorte aanwezig is."
+publish: true
 ---
 
 

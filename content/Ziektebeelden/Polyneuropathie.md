@@ -5,7 +5,8 @@ tags:
   - Ziektebeeld
   - Neurologie/Sensibiliteitsstoornissen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

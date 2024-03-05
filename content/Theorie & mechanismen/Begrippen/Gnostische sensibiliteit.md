@@ -5,7 +5,8 @@ tags:
   - Neurologie
   - Begrippen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ![|350](https://i.imgur.com/ou20eOA.png)

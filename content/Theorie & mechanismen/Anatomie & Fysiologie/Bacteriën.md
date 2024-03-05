@@ -3,7 +3,8 @@ status:
 tags: 
 type: MOC
 compleet: false
-aliases:
+aliases: 
+publish: true
 ---
 
 -   Streptococcus pyogens (bètahemolytische groep A streptococ)

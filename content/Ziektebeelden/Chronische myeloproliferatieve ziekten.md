@@ -7,7 +7,8 @@ tags:
 aliases:
   - chronische myeloproliferatieve neoplasieën
   - Chronische myeloproliferatieve neoplasieën
-description:
+description: 
+publish: true
 ---
 
 ### Aandoeningen

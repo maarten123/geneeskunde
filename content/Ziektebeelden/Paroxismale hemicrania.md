@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 - Halfzijdige hoofdpijn, met daarnaast ook autonome verschijnselen.

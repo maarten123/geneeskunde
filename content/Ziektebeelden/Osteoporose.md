@@ -11,6 +11,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 ## Osteoporose

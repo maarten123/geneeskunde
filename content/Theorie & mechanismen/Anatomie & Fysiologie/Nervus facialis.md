@@ -5,5 +5,6 @@ tags:
   - Anatomie
 aliases:
   - nervus facialis
-description:
+description: 
+publish: true
 ---

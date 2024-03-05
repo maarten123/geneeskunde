@@ -6,7 +6,8 @@ tags:
   - Ziektebeeld
   - Klinische_genetica
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ###### Hoofdverschijnselen

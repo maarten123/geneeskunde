@@ -5,7 +5,8 @@ tags:
   - Klinische_genetica
   - Fysiologie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 >Antonie van Leeuwenhoek, 1675.  

@@ -6,7 +6,8 @@ tags:
   - Neurologie/Acute_neurologie
   - Begrippen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 | A | Alert        | is bewust van omgeving en tijd.                  |

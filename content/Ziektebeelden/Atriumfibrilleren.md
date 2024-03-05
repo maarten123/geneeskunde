@@ -10,7 +10,8 @@ aliases:
   - atriumfibrilleren
   - Boezemfibrilleren
   - boezemfibrilleren
-description:
+description: 
+publish: true
 ---
 
 ### Atriumfibrilleren

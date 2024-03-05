@@ -1,11 +1,12 @@
 ---
-title: "Alcohol abusus"
+title: Alcohol abusus
 draft: false
-tags: 
-- Ziektebeeld
-- Verslavingsgeneeskunde
+tags:
+  - Ziektebeeld
+  - Verslavingsgeneeskunde
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

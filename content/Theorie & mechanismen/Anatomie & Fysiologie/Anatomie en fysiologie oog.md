@@ -6,7 +6,8 @@ tags:
   - Anatomie
   - Fysiologie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

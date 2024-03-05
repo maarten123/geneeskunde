@@ -4,11 +4,12 @@ draft: false
 tags:
   - Ziektebeeld
   - Endocrinologie/Schildklier
-aliases: 
-- TSI
-- Graves
-- graves
-- Ziekte van Graves
-- ziekte van Graves
-description:
+aliases:
+  - TSI
+  - Graves
+  - graves
+  - Ziekte van Graves
+  - ziekte van Graves
+description: 
+publish: true
 ---

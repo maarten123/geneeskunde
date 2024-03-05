@@ -1,12 +1,13 @@
 ---
-title: "Acute leukemie"
+title: Acute leukemie
 draft: false
-tags: 
+tags:
   - Oncologie/Hemato-oncologie
   - Interne_geneeskunde/Hematologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ### Pathofysiologie

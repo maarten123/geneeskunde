@@ -1,10 +1,11 @@
 ---
-title: "Adrenogenitaal syndroom (AGS)"
+title: Adrenogenitaal syndroom (AGS)
 draft: false
-tags: 
-- Interne_geneeskunde/Endocrinologie
+tags:
+  - Interne_geneeskunde/Endocrinologie
 aliases: Congenital adrenal hyperplasia
-description:
+description: 
+publish: true
 ---
 
 #### Definitie

@@ -5,6 +5,7 @@ tags:
   - Longeneeskunde/Chronische_ziekten
 aliases: 
 description: Bij COPD-patiënten komen frequent exacerbaties voor die worden gekenmerkt door een toename van de kortademigheidsklachten en sputumproductie ( acute on chronic).
+publish: true
 ---
 
 

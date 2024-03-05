@@ -4,7 +4,8 @@ draft: false
 tags:
   - Chirurgie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ## Part 1: Abdominal 

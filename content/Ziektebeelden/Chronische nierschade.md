@@ -5,7 +5,8 @@ tags:
   - Nefrologie/Degeneratief
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ### Diagnostiek

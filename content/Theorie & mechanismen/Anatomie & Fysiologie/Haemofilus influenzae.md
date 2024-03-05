@@ -6,7 +6,8 @@ tags:
   - Fysiologie
   - Ziekteverwekkers/Bacterie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Otitis media met effusie of otitis media serosa is een aandoening die, ondanks de naam, in de regel niet gepaard gaat met pijn.

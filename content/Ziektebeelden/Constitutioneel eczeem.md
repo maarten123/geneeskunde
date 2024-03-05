@@ -5,7 +5,8 @@ tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

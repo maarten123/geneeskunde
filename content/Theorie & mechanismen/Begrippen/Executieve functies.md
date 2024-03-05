@@ -5,7 +5,8 @@ tags:
   - Begrippen
 aliases:
   - executieve functies
-description:
+description: 
+publish: true
 ---
 
 **1**

@@ -7,7 +7,8 @@ aliases:
   - Augmentin
   - augmentin
   - Amoxicilline-Clavulaanzuur
-description:
+description: 
+publish: true
 ---
 
 

@@ -5,5 +5,6 @@ tags:
   - draft
 aliases:
   - arachnoïd mater
-description:
+description: 
+publish: true
 ---

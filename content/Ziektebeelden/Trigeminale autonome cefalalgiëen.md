@@ -5,7 +5,8 @@ tags:
   - Neurologie/Hoofdpijn
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - **Primaire hoofdpijnvormen** met **eenzijdige heftige [[Hoofdpijn]]**.

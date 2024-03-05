@@ -6,7 +6,8 @@ tags:
   - Dermatologie/Inflammatoire_dermatosen/Eczeem
   - Todo
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

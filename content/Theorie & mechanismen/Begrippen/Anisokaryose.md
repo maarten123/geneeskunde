@@ -1,10 +1,11 @@
 ---
-title: "Anisokaryose"
+title: Anisokaryose
 draft: false
-tags: 
-- Begrippen
+tags:
+  - Begrippen
 aliases: 
 description: Ongelijke vorm en grootte van celkernen.
+publish: true
 ---
 
 Betekenis: Ongelijke vorm en grootte van celkernen.

@@ -14,7 +14,8 @@ aliases:
   - Deletie
   - Inserties
   - Inversie
-description:
+description: 
+publish: true
 ---
 
 >Je kunt de begrippen multifactoriële- en monogene aandoeningen, Robertoniaanse- en reciproke translocatie beschrijven en je kunt de samenhang van deze begrippen met fenotype en de gevolgen voor het nageslacht beargumenteren.

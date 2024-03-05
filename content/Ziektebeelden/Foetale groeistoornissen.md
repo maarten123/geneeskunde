@@ -12,6 +12,7 @@ aliases:
   - Large for gestational age
   - LGA
 description: 
+publish: true
 ---
 
 

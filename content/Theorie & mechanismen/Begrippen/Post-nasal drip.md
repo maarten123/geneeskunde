@@ -6,5 +6,6 @@ tags:
   - draft
   - Begrippen
 aliases: 
-description:
+description: 
+publish: true
 ---

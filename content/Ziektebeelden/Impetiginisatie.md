@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 *De 1-jarige Elsje was al eens eerder bij u geweest met jeukende huidafwijkingen. De moeder vertelt dat 'het eczeem' fors verergerd is en dat Elsje 39° koorts heeft.*

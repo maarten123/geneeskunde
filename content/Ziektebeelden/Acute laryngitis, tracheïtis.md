@@ -6,6 +6,7 @@ tags:
   - Infectieziekten/Bovensteluchtweginfecties
 aliases: 
 description: Ontsteking middelste luchtwegen. Vooral bij influenza treden er algemene ziekteverschijnselen en koorts op. Meestal geen verwekker gevonden, uitgegaan van virale aard.
+publish: true
 ---
 
 

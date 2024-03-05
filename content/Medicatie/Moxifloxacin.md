@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Fluorochinolonen
 aliases: 
-description:
+description: 
+publish: true
 ---

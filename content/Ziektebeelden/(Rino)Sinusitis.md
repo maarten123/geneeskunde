@@ -7,6 +7,7 @@ aliases:
   - Sinusitis
   - Rinosinusitis
 description: Bijholteontsteking/(sub)acute virale bovensteluchtweginfectie
+publish: true
 ---
 
 

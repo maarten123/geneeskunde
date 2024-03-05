@@ -5,7 +5,8 @@ tags:
   - Klinische_genetica
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 <img width="200px" src="https:/i.imgur.com/9kMprQx.png"></img>

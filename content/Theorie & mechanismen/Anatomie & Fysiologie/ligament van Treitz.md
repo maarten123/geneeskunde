@@ -8,7 +8,8 @@ aliases:
   - ligament van Treitz
   - Treitz
   - treitz
-description:
+description: 
+publish: true
 ---
 
 ![](https://i.imgur.com/AFMHLwf.png)

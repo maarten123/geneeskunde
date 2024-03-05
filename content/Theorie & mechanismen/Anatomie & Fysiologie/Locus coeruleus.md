@@ -4,7 +4,8 @@ draft: true
 tags:
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 https://youtube.com/shorts/15W7kU_xcVo?feature=share

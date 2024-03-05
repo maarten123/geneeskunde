@@ -7,6 +7,7 @@ tags:
   - Oncologie
 aliases: 
 description: Verandering van het uiterlijk door overproductie van groeihormonen. Wordt ook wel reuzengroei genoemd.
+publish: true
 ---
 ![](https://i.imgur.com/54nFQ7q.jpg)
 

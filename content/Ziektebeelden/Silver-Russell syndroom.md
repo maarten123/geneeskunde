@@ -6,7 +6,8 @@ tags:
   - Ziektebeeld
   - Syndroom
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ###### Hoofdverschijnselen

@@ -5,7 +5,8 @@ tags:
   - Dermatologie/Inflammatoire_dermatosen
   - Dermatologie/Infecties
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

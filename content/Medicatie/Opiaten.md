@@ -5,5 +5,6 @@ tags:
   - Medicatie/Analgetica
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---

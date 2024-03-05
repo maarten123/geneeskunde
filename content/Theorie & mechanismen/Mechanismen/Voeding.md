@@ -6,7 +6,8 @@ tags:
   - Kindergeneeskunde/Groei-Ontwikkeling
   - Mechanismen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - De dagelijkse energiebehoefte per kg lichaamsgewicht is bij kinderen een stuk hoger dan bij volwassenen:

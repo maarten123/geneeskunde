@@ -5,7 +5,8 @@ tags:
   - Infectieziekten/Bovensteluchtweginfecties
   - Longeneeskunde
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 **Bovenste luchtweginfecties**: (bovenste luchtwegen= neus, mond- en keelholte, middenoren en trachea) 

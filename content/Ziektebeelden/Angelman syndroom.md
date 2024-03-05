@@ -7,7 +7,8 @@ tags:
   - Syndroom
 aliases:
   - angelman syndroom
-description:
+description: 
+publish: true
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "Docetaxel"
+title: Docetaxel
 draft: false
 tags:
   - Medicatie/Taxanen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 **Indicatie**: Mammaca, Prostaatca, NSCLC

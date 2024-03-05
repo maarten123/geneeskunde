@@ -9,7 +9,8 @@ tags:
 aliases:
   - Anusatresie
   - Imperforate anus
-description:
+description: 
+publish: true
 ---
 - Bij een atresie is er op een bepaalde plek geen lumen waar dat wel hoort te zijn.
     - Voorbeelden zijn anusatresie, oesophagusatresie en dunne dam atresie.

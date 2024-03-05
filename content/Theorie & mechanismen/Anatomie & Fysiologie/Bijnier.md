@@ -6,7 +6,8 @@ tags:
   - Fysiologie
   - Endocrinologie/Bijnier
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ## Achtergrond

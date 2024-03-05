@@ -5,7 +5,8 @@ tags:
   - Neurologie/Neuromusculair
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Ptosis = hangende oogleden

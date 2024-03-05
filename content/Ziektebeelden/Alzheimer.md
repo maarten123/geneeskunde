@@ -10,7 +10,8 @@ aliases:
   - Alzheimerdementie
   - Alzheimer's disease
   - Alzheimer's Disease
-description:
+description: 
+publish: true
 ---
 
 -   Gekenmerkt door geheugenstoornissen.

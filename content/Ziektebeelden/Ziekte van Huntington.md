@@ -4,7 +4,8 @@ draft: false
 tags:
   - Neurologie/Bewegingsstoornissen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### Klinische presentatie

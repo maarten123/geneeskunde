@@ -5,7 +5,8 @@ tags:
   - Oncologie/Hemato-oncologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 [[Chronische myeloide leukemie]]

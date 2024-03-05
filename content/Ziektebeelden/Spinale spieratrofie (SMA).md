@@ -8,7 +8,8 @@ aliases:
   - SMA
   - Spinale spieratrofie
   - spinale spieratrofie
-description:
+description: 
+publish: true
 ---
 
 Er bestaan verschillende types. Deze aandoening komt meestal bij kinderen voor, maar kan ook op volwassen leeftijd ontstaan.

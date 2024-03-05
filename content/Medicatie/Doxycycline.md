@@ -1,10 +1,11 @@
 ---
-title: "Doxycycline"
+title: Doxycycline
 draft: false
-tags: 
-- Medicatie/Antibiotica/Tetracyclinen
+tags:
+  - Medicatie/Antibiotica/Tetracyclinen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

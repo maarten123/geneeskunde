@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Antibiotica
 aliases: 
-description:
+description: 
+publish: true
 ---

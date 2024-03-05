@@ -8,7 +8,8 @@ aliases:
   - Glutenallergie
   - glutenallergie
   - coeliakie
-description:
+description: 
+publish: true
 ---
 
 Gluten komen voor in  granen zoals tarwe, rogge gerst en hop. Vaak is er sprake van een genetische predispositie. 

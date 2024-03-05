@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: Dermatofibroom
+publish: true
 ---
 
 ![|250](https://i.imgur.com/CsZnlE1.png)

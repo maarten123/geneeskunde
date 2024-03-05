@@ -6,7 +6,8 @@ tags:
   - Fysiologie
   - Anatomie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Centraal in de hersenen ligt het [[diencephalon]]

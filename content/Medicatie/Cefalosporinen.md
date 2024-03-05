@@ -5,4 +5,5 @@ tags:
   - Medicatie/Antibiotica
 aliases: 
 description: Cefalosporinen
+publish: true
 ---

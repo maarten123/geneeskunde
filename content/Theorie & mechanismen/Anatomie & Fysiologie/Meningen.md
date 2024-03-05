@@ -4,7 +4,8 @@ draft: true
 tags:
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---
 [[Chronisch en aanvalsgewijze hoofdpijn]]
 [[Hoofdpijn]]

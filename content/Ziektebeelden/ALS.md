@@ -1,12 +1,13 @@
 ---
-title: "ALS"
+title: ALS
 draft: false
-tags: 
-- Neurologie/Bewegingsstoornissen/Voorhoorncel
-aliases: 
-- amyotrofische lateraalsclerose
-- Amyotrofische lateraalsclerose
-description:
+tags:
+  - Neurologie/Bewegingsstoornissen/Voorhoorncel
+aliases:
+  - amyotrofische lateraalsclerose
+  - Amyotrofische lateraalsclerose
+description: 
+publish: true
 ---
 
 

@@ -5,7 +5,8 @@ tags:
   - Ziektebeeld
   - Dermatologie/Inflammatoire_dermatosen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ![|250](https://i.imgur.com/n96ZkCt.png)

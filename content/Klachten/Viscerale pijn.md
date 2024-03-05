@@ -5,5 +5,6 @@ tags:
   - Klacht
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---

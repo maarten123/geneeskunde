@@ -5,7 +5,8 @@ tags:
   - Neurologie/Hoofdpijn
   - Klacht
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### Pathofysiolgie

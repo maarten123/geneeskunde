@@ -6,7 +6,8 @@ tags:
   - Orthopedie
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 ## ◾Onderste extremiteiten (knie, enkel, voet)

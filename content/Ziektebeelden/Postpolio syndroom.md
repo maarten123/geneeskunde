@@ -5,7 +5,8 @@ tags:
   - Ziektebeeld
   - Neurologie/Bewegingsstoornissen/Voorhoorncel
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - Poliomyelitis is een in Nederland zeldzame virusziekte die de motorische voorhoorncellen aantast

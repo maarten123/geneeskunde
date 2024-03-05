@@ -5,7 +5,8 @@ tags:
   - Reumatologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Systemische sclerose is een zeldzame, systemische auto-immuunaandoening die wordt gekenmerkt door **inflammatie**, **vasculopathie** en **fibrosering** van de **huid** en **inwendige organen**.

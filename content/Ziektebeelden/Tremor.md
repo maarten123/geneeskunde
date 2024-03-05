@@ -5,7 +5,8 @@ tags:
   - Neurologie/Bewegingsstoornissen
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

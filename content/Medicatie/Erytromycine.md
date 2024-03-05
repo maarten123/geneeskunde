@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Antibiotica/Macroliden
 aliases: 
-description:
+description: 
+publish: true
 ---

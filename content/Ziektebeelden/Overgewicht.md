@@ -8,6 +8,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Onze voeding bestaat veelal uit producten met een hoge energiedichtheid. De scheve verhouding tussen hoog energiegebruik bij een lage behoefte leidt tot een toename van het lichaamsgewicht. Uit experimenteel onderzoek komt naar voren dat een positieve energiebalans van zo’n 100 Kcal per dag in één jaar tijd tot een verhoging van het lichaamsgewicht van circa 5 kg leidt. Zou men daarna weer een energetisch gebalanceerde voeding gebruiken, blijft dat aangekomen lichaamsgewicht gehandhaafd. Zo klimt geleidelijk, bijna ongemerkt het lichaamsgewicht in de tijd.

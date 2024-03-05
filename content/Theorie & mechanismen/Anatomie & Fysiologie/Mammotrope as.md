@@ -7,7 +7,8 @@ aliases:
   - Mammotrope as
   - prolactine
   - Prolactine
-description:
+description: 
+publish: true
 ---
 
 - Synthese door lactotrofe cellen in de hypofysevoorkwab

@@ -4,7 +4,8 @@ draft: false
 tags:
   - Endocrinologie/Schildklier
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - De ziekte van Hashimoto is een chronische auto-immuunziekte die wordt gekenmerkt door ontsteking van de schildklier en de aanwezigheid van antilichamen tegen thyreoglobuline en TPO. 

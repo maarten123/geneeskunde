@@ -8,7 +8,8 @@ tags:
 aliases:
   - infertiliteit
   - subfertiliteit
-description:
+description: 
+publish: true
 ---
 
 ### Definities

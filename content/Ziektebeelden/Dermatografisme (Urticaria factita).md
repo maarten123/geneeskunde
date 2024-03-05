@@ -8,6 +8,7 @@ aliases:
   - Urticaria factita
   - Dermatografisme
 description: 
+publish: true
 ---
 
 - Na het wrijven of krabben ontstaat een verheven jeukende streep;

@@ -6,7 +6,8 @@ tags:
   - Reumatologie
 aliases:
   - osteïtis deformans
-description:
+description: 
+publish: true
 ---
 
 

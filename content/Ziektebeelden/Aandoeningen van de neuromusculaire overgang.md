@@ -5,6 +5,7 @@ tags:
   - Neurologie/Bewegingsstoornissen
 aliases: 
 description: "Typisch voor een probleem van de neuromusculaire overgang: klachten nemen toe na inspanning of vermoeidheid (inspanningsintolerantie)."
+publish: true
 ---
 
 #### De neuromusculaire overgang

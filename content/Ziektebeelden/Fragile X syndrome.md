@@ -8,6 +8,7 @@ aliases:
   - Fragile X
   - fra(X)
 description: 
+publish: true
 ---
 
 ##### Kenmerken

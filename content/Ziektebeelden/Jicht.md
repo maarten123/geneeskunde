@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Een lagere eGFR bij nierinsufficiëntie leidt tot verminderde renale klaring. Het urinezuur wordt minder goed geklaard en is dus bij deze patiënten vaak verhoogd. Dit leidt tot het sneller ontstaan van urinezuurkristallen en neerslag hiervan.

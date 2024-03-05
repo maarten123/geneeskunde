@@ -5,7 +5,8 @@ tags:
   - Ziektebeeld
   - Neurologie/Hoofdpijn
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### Kenmerken

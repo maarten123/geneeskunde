@@ -6,7 +6,8 @@ tags:
   - Palliatieve_zorg
   - Mechanismen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 **Palliatieve zorg**

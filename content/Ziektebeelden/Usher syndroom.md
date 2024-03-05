@@ -9,7 +9,8 @@ tags:
   - Oogheelkunde
 aliases:
   - Syndroom van Usher
-description:
+description: 
+publish: true
 ---
 
 

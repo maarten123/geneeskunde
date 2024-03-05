@@ -6,7 +6,8 @@ tags:
   - Ziektebeeld
 aliases:
   - Cystische fibrose
-description:
+description: 
+publish: true
 ---
 
 - Slijmvliezen scheiden een abnormaal taai slijm af.

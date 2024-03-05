@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Preload, afterload en contractiliteit zijn belangrijke determinanten van de hartfunctie.

@@ -5,5 +5,6 @@ tags:
   - Fysiologie
   - Cardiologie
 aliases: 
-description:
+description: 
+publish: true
 ---

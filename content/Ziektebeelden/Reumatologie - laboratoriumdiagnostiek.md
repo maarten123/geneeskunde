@@ -5,7 +5,8 @@ tags:
   - Reumatologie
   - Diagnostiek
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### BSE

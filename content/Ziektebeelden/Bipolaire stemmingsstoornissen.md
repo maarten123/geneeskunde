@@ -7,7 +7,8 @@ tags:
 aliases:
   - Manisch depressief
   - Bipolar disorder
-description:
+description: 
+publish: true
 ---
 
 

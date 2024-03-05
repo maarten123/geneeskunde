@@ -5,5 +5,6 @@ tags:
   - Medicatie/Antiprotozoica
 aliases:
   - Metronidazol, metronidazol
-description:
+description: 
+publish: true
 ---

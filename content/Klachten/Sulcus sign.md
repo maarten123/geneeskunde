@@ -5,7 +5,8 @@ tags:
   - Klacht
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 Op x, bij extensietrauma. Er onstaat een kuiltje in het femurbot. 

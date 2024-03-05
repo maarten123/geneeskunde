@@ -5,7 +5,8 @@ tags:
   - Anatomie
   - draft
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 # Abdomen

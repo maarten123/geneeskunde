@@ -1,12 +1,13 @@
 ---
-title: "ADEM"
+title: ADEM
 draft: false
-tags: 
+tags:
   - Neurologie/Acute_neurologie
   - Acute geneeskunde
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

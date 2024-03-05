@@ -7,6 +7,7 @@ tags:
 aliases:
   - Isomorf prikkeleffect van Köbner
 description: 
+publish: true
 ---
 
 #### Definitie

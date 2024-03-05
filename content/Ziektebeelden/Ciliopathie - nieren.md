@@ -6,7 +6,8 @@ tags:
   - Nefrologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - Normal <–> pathologic  

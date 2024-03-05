@@ -7,7 +7,8 @@ tags:
   - MDL
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - Constitutioneel mismatch repair deficiëntie syndroom

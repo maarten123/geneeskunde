@@ -7,6 +7,7 @@ tags:
   - Begrippen
 aliases: 
 description: 
+publish: true
 ---
 
 ![|200](https://i.imgur.com/f7bO6Jl.png)

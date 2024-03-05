@@ -1,10 +1,11 @@
 ---
-title: "Benigne Paroxysmale Positie Duizeligheid"
+title: Benigne Paroxysmale Positie Duizeligheid
 draft: false
-tags: 
-- KNO/Vestibulologie
+tags:
+  - KNO/Vestibulologie
 aliases: BPPD
-description:
+description: 
+publish: true
 ---
 
 

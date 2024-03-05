@@ -5,7 +5,8 @@ tags:
   - Klinische_genetica
   - Begrippen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 - Chromosomale verandering 1kB – 3Mb

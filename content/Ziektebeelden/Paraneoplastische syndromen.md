@@ -6,6 +6,7 @@ tags:
   - Ziektebeeld
 aliases: 
 description: 
+publish: true
 ---
 
 Paraneoplastische syndromen zijn bijeffecten van kanker die niet veroorzaakt worden door:

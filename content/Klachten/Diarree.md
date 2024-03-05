@@ -7,7 +7,8 @@ tags:
   - Aandoening
   - Klacht
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 [[Diarree]] treed op wanneer de wateropnamecapaciteit van de darm overscheden wordt. Dit leidt tot afname van de consistentie en vaak ook toename van de frequentie. 

@@ -8,6 +8,7 @@ tags:
 aliases:
   - APL
 description: Vaak dezelfde presentatie als AML, maar APL wordt specifiek gekenmerkt door hoge bloedingsneiging en kans op diffuse intravasale stolling (DIS)
+publish: true
 ---
 
 #### APL

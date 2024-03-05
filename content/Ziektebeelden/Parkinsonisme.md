@@ -9,6 +9,7 @@ description:
 aliases:
   - Parkinsonism's
   - Parkinsonism
+publish: true
 ---
 
 

@@ -7,7 +7,8 @@ tags:
   - Ziektebeeld
 aliases:
   - PMF
-description:
+description: 
+publish: true
 ---
 
 De JAK2V617 mutatie blijkt aanwezig in 4% van de cellen, de t(9;22) kan niet worden aangetoond.

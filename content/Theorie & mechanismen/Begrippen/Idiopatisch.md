@@ -4,7 +4,8 @@ draft: false
 tags:
   - Begrippen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

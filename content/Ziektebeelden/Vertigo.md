@@ -5,7 +5,8 @@ tags:
   - KNO/Vestibulologie
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 -   Je kunt de anatomische structuren die een rol spelen bij het evenwicht herkennen en beschrijven.

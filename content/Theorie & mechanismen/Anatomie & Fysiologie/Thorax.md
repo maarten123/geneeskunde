@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # Thorax
 
 The tendon sheath of the m. rectus abdominis changes in its configuration.

@@ -4,5 +4,6 @@ draft: false
 tags:
   - Medicatie/Antibiotica/Fluorochinolonen
 aliases: ciprofloxacine
-description:
+description: 
+publish: true
 ---

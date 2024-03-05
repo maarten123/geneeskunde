@@ -7,6 +7,7 @@ tags:
 aliases:
   - Acne
 description: Acne vulgaris, ook wel jeugdpuistjes genoemd, is een veel voorkomende huidaandoening die rond de puberteit kan optreden.
+publish: true
 ---
 
 

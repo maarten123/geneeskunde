@@ -5,7 +5,8 @@ tags:
   - Oogheelkunde/Infecties
   - Ziektebeeld
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 De meest voorkomende oorzaak van rode ogen is een conjunctivitis. Dat is een ontsteking van de slijmvliesbekleding van de binnenzijde van de oogleden en de buitenzijde van de oogbol.  Een conjunctivitis kan geclassificeerd worden onder de groep infectieus en niet-infectieus. Daarnaast kan dit weer verder worden onderverdeeld:

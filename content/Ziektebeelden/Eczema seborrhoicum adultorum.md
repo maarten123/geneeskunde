@@ -7,6 +7,7 @@ tags:
 aliases:
   - eczema seborrhoicum adultorum
 description: 
+publish: true
 ---
 
 

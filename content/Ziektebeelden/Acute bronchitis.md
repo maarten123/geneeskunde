@@ -6,6 +6,7 @@ tags:
   - Infectieziekten/Ondersteluchtweginfecties
 aliases: 
 description: Korte periode met hoesten en productie van al dan niet purulent sputum. Geen malaise of koorts. Ontsteking van de bronchiën.
+publish: true
 ---
 
 

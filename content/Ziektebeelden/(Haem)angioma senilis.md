@@ -10,6 +10,7 @@ aliases:
   - cherry angioma, cherry haemangioma, ruby spots, ouderdoms-hemangioom, bloedvin
   - Cherry Angioma, Cherry Haemangioma, Ruby Spots, Ouderdoms-hemangioom, Bloedvin
 description: Angioma senile is een bloedvatverwijding
+publish: true
 ---
 <img width="200" src="https://i.imgur.com/CszzZxK.png)"></img>
 

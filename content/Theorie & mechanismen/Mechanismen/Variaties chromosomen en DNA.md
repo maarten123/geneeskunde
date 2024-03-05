@@ -5,7 +5,8 @@ tags:
   - Mechanismen
   - Klinische_genetica
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 > Je kunt de verschillende typen genoomvariatie op chromosomaal en basepaarniveau beschrijven en je kunt beargumenteren welke gevolgen deze hebben op eiwitniveau.

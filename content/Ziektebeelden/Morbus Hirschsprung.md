@@ -11,6 +11,7 @@ aliases:
   - ziekte van Hirschsprung
   - Morbus Hirschsprung
 description: 
+publish: true
 ---
 
 

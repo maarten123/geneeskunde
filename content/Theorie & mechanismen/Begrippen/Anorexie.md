@@ -4,7 +4,8 @@ tags:
   - Begrippen
 aliases: 
 draft: false
-description:
+description: 
+publish: true
 ---
 
 Verlies van eetlust

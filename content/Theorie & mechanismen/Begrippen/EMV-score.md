@@ -4,6 +4,7 @@ tags:
 type: Begrip
 aliases: EMV, EMV score, EMV-score
 cssClasses: img-grid, embed-strict
+publish: true
 ---
 
 - **EMV-score**

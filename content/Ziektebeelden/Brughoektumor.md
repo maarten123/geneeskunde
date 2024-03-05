@@ -1,10 +1,11 @@
 ---
-title: "Brughoektumor"
+title: Brughoektumor
 draft: false
-tags: 
-- KNO/Hoofd-halsoncologie
+tags:
+  - KNO/Hoofd-halsoncologie
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 

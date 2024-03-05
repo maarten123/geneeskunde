@@ -4,7 +4,8 @@ draft: false
 tags:
   - Klacht
 aliases: 
-description:
+description: 
+publish: true
 ---
 #### Aspecifieke rugpijn
 - Rugpijn zonder duidelijke of niet specifiek aan te geven anatomische, systemische of structurele afwijkingen.

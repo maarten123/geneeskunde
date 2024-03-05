@@ -4,7 +4,8 @@ draft: false
 tags:
   - Endocrinologie/Schildklier
 aliases: TSI, Graves, graves, Ziekte van Graves, ziekte van Graves,
-description:
+description: 
+publish: true
 ---
 
 ![](https://i.imgur.com/18wMjtS.png)

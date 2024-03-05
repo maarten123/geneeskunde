@@ -4,7 +4,8 @@ draft: false
 tags:
   - Medicatie/Taxanen
 aliases: 
-description:
+description: 
+publish: true
 ---
 
 #### Middelen

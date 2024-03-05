@@ -1,12 +1,13 @@
 ---
-title: "Acute lymfoïde leukemie"
+title: Acute lymfoïde leukemie
 draft: false
-tags: 
-- Oncologie/Hemato-oncologie
-- Interne_geneeskunde/Hematologie
-- Ziektebeeld
+tags:
+  - Oncologie/Hemato-oncologie
+  - Interne_geneeskunde/Hematologie
+  - Ziektebeeld
 aliases: ALL
 description: Maligne klonale proliferatie van voorlopercellen van T- of B-cellen
+publish: true
 ---
 
 #### Pathofysiologie
