@@ -32,7 +32,7 @@ description:
 	- Uniparenterale disomie - 20% (afkomstig van vader);
 	- Mutatie gen: CDKN1C, KCNQ1QT1, ICR1, LIT1 en H19/IGF2 - 5%;
 	- Overmatige methylatie op IC1 deel - 5%;
-	- Overig: deletie of duplicatie van 11p15.5 - 1%;
+	- Overig: [[Genetische abnormaliteiten|deletie]] of duplicatie van 11p15.5 - 1%;
 	- Onbekend - 20%;
 ###### Detectie techniek
 - Methylatie analyse
@@ -44,7 +44,7 @@ description:
 		- Zonder BWS in de familie 5% gedetecteerd;
 		- Met BWZ in de familie 40% gedetecteerd;
 - Karyotype 
-	- Cytogene duplicatie, inversie of translocatie van 11p15.5 - 1% gedetecteerd; 
+	- Cytogene duplicatie, [[Genetische abnormaliteiten|inversie]] of translocatie van 11p15.5 - 1% gedetecteerd; 
 - Microarray (SNP based)
 	- Microdeleties, microduplicaties, paternaal UPD - 9% gedetecteerd;
 - Klinische diagnose

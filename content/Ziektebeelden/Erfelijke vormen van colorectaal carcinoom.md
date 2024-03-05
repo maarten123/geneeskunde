@@ -49,7 +49,7 @@ Autosomaal dominante mutaties in het MLH1, MSH2, MSH6, PMS2 en EpCAM.
 
 **Effect mutaties**
 
-- **EpCAM:** ligt voor promotor MSH2. Deletie van epcam staart → uitschakeling promotor MSH2.
+- **EpCAM:** ligt voor promotor MSH2. [[Genetische abnormaliteiten|Deletie]] van epcam staart → uitschakeling promotor MSH2.
     - EpCAM is dus een inderecte oorzaak van het defect van het MMR systeem.
 - **MMR genen (**MLH1, MSH2, MSH6, PMS2)
     - Door defect in het MMR systeem stapelen fouten zich op in **microsatelieten**.

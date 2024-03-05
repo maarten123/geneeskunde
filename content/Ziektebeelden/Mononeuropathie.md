@@ -275,7 +275,7 @@ Wegnemen oorzaak beknelling.
 - 1 op de 20.000 mensen heeft deze erfelijke vorm van drukneuropathie. 
 #### Oorzaak
 - Autosomaal dominante aandoening. 
-- Fout op chromosoom 17: deletie in het PMP22-gen.
+- Fout op chromosoom 17: [[Genetische abnormaliteiten|deletie]] in het PMP22-gen.
 - Myelineschede is bij deze patiënten gevoeliger voor druk dan bij gezonde personen. 
 - **Gevolg**: Zeer frequent, soms tegelijkertijd, treden meerdere drukneuropathieën op. 
 	- Erst varieert sterk. 

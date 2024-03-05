@@ -11,7 +11,7 @@ description:
 
 Centraal in de hersenen ligt het [[diencephalon]]
 
-Het diencephalon bestaat uit de epithalamus, dorsal thalamus, en de [[hypothalamus]]
+Het diencephalon bestaat uit de epithalamus, dorsal thalamus, en de [[Hypothalamus]]
 
 De functies van de hypothalamus zijn:
 1. aanmaak van oxytocine en antidiuretisch hormoon

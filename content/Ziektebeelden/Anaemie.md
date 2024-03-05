@@ -406,13 +406,13 @@ Met een directe antiglobuline test (DAT) kan men de antistoffen op de erytrocyt 
 - Door een overschot aan $\beta$-ketens ontstaat chronische hemolyse
 - Komt met name voor in Zuidoost-Azie en China
 - **Verschillende vormen**:
-	- deletie van 1 of 2 genen: 
+	- [[Genetische abnormaliteiten|deletie]] van 1 of 2 genen: 
 		- Patiënt is volledig gezond maar heeft een lichte anemie
-	- deletie van 3 genen (HbH ziekte): 
+	- [[Genetische abnormaliteiten|deletie]] van 3 genen (HbH ziekte): 
 		- Matig ernstige anemie, 
 		- Geringe icterus
 		- Wisselende hepatosplenomegalie
-	- deletie van 4 genen: 
+	- [[Genetische abnormaliteiten|deletie]] van 4 genen: 
 		- Deze vorm is niet verenigbaar met het leven
 
 ##### Voorkomen hemoglobinopathie

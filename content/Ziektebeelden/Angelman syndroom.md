@@ -35,7 +35,7 @@ description:
 ###### Genetische oorzaken
 - **Normaalsituatie**: paternale imprinting bij 15q11.2-q13;
 - **Abnormale methylatie bij 15q11.2-q13 (80%)**, door:
-	- Deletie van de maternale 15q11.2-q13 regio;
+	- [[Genetische abnormaliteiten#^a6d64f|Deletie]] van de maternale 15q11.2-q13 regio;
 	- Uniparenterale disomie van de paternale 15q11.2-q13 regio;
 	- Imprinting defect van de maternale 15q11.2-q13 regio;
 - **OF een pathogene variant van het maternale UBE3A gen (1%)**
@@ -47,13 +47,13 @@ description:
 - FISH (fluorescentie-in-situhybridisatie) (~68%);
 - UBE3A Sanger sequencing (~11%);
 - UPD-analyse (~3-7%);
-- Deletie-analyse imprinting centre (< 0,3%);
-- Gen-specifieke deletie/duplicatie analyse (rare);
+- [[Genetische abnormaliteiten#^a6d64f|Deletie]]-analyse imprinting centre (< 0,3%);
+- Gen-specifieke [[Genetische abnormaliteiten#^a6d64f|deletie]]/duplicatie analyse (rare);
 
 ###### Hoofdpunten counseling
 - Informatie over het syndroom + overerving;
-- PND bij dragerschap mutatie of deletie imprinting centrum of UBE3A (herhalingsrisico 50%);
-- PND bij deletie chromosoom 15 of pUPD is minder nodig, kan desgewenst op indicatie (herhalingsrisico is 1%);
+- PND bij dragerschap mutatie of [[Genetische abnormaliteiten#^a6d64f|deletie]] imprinting centrum of UBE3A (herhalingsrisico 50%);
+- PND bij [[Genetische abnormaliteiten#^a6d64f|deletie]] chromosoom 15 of pUPD is minder nodig, kan desgewenst op indicatie (herhalingsrisico is 1%);
 - Deelname aan DNA bank (bij patiënten waarbij het pathogenetische mechanisme nog onbekend is);
 - Doorverwijzing o.a. kinderarts, fysiotherapeut, logopedist, diëtiste;
 - Meer informatie: Vereniging Angelman Syndroom Nederland

@@ -30,7 +30,7 @@ Er bestaan verschillende types. Deze aandoening komt meestal bij kinderen voor, 
 > - Erft autosomaal recessief over
 > - Mutatie SMN1-gen op chromosoom 5, hierdoor wordt minder survival-motor-neuron eiwit gemaakt
 > - Ernst van mutatie = ernst aandoening
->     - Volledige deletie veroorzaakt SMA type 1
+>     - Volledige [[Genetische abnormaliteiten|deletie]] veroorzaakt SMA type 1
 > - SMN2-gen: aanwezigheid extra kopieën van dit SMN2-gen zorgt voor een milder beloop.
 > - **Aanvullend onderzoek** is dan ook het bevestigen van deze DNA mutaties.
 

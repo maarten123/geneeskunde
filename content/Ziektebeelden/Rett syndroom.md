@@ -72,7 +72,7 @@ Uitzondering: *MECP2 variant c.925C>T (p.Arg309Trp) de novo*
 	- Spasticiteit
 	- Epilepsie 
 - Duplicatie is niet lethaal:
-	- Duplicaties zijn over het algemeen geassocieerd met een milder beeld dan deleties, vergelijk bijv. down syndroom (trisomie 21) vs monosomie 21 (lethaal).
+	- Duplicaties zijn over het algemeen geassocieerd met een milder beeld dan deleties, vergelijk bijv. down syndroom ([[Genetische abnormaliteiten|trisomie]] 21) vs [[Genetische abnormaliteiten|monosomie]] 21 (lethaal).
 - De overervingsvorm van het MECP2-duplicatie syndroom is <u>X-gebonden recessief</u>. 
 - In enkele gevallen zijn vrouwen met een MECP2 duplicatie ook aangedaan:
 	- Door de aanwezigheid van een X-chromosomale afwijking waardoor het X-chromosoom met de MECP2 duplicatie niet geinactiveerd kan worden. 
@@ -83,7 +83,7 @@ Uitzondering: *MECP2 variant c.925C>T (p.Arg309Trp) de novo*
 - Bij ~90-95% wordt een mutatie gevonden in MECP2. 
 - Ook zonder mutatie in MECP2 kan de diagnose Rett syndroom gesteld worden als iemand voldoet aan de klinische criteria.
 - Mogelijke andere verklaringen zijn:
-	- Een deletie in het MECP2-gen, deze worden niet opgepikt met mutatieanalyse;
+	- Een [[Genetische abnormaliteiten|deletie]] in het MECP2-gen, deze worden niet opgepikt met mutatieanalyse;
 	- Mutatie in een ander gen, bijv. CDKL5 of FOXG1.
 
 ##### Counseling

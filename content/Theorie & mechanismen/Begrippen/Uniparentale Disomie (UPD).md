@@ -37,13 +37,13 @@ flexGrow=1
 - Oocyt wordt bevrucht door een nullosomische spermacel, die dus dat chromosoom niet bezit;
 - ➞  Heterodisomie;
 
-##### B: Trisomie rescue
+##### B: [[Genetische abnormaliteiten|Trisomie]] rescue
 - Disomische oocyt wordt bevrucht door een normale spermacel;
 - Bevuchte oocyt verliest 1 van de chromosomen willekeurig;
 - In 1/3 van de gevallen veroorzaakt dit mUPD;
 - ➞ Heterodisomie;
 
-##### C: Monosomie duplicatie
+##### C: [[Genetische abnormaliteiten|Monosomie]] duplicatie
 - Nullosomische oocyt wordt bevrucht door een normale zaadcel;
 - Chromosoom wordt verdubbeld (dmv. somatische duplicatie);
 - ➞ Isodisomie;

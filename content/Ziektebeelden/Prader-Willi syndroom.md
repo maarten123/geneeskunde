@@ -24,7 +24,7 @@ description:
 - Abnormale DNA methylatie in specifieke PM regio
 - Specifieke PW regio: 15q11.2-13
 - **Drie hoofdoorzaken**:
-	- Meestal (70%) *de novo* deletie paternale chromosoom;
+	- Meestal (70%) *de novo* [[Genetische abnormaliteiten|deletie]] paternale chromosoom;
 	- Soms (25%) maternale UPD;
 	- Zelden (5%) imprinting defect van paternaal chromosoom;
 - Onduidelijk welke genen binnen deze regio bijdragen aan het syndroom;

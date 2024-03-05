@@ -53,7 +53,7 @@ description:
 Vaak gevonden chromosomale afwijkingen zijn:
 - del(13q14) (55%)
 - del(11q) (25%)
-- Trisomie 12 (10-20 %)
+- [[Genetische abnormaliteiten|Trisomie]] 12 (10-20 %)
 - del (17p) (9%
 
 *Prognose en afwijkingen*
