@@ -30,7 +30,7 @@ publish: true
 	- Geen bloed of slijm;
 	- Pijn na defecatie verminderd;
 	- Pijn, vermoeidheid, geen puf, werken lukt nog maar net;
-- **[[C2 IBD|IBD]]**
+- **[[IBD|IBD]]**
 	- Diarree met bloed- en slijmverlies;
 	- Algemene verschijnselen zoals malaise, vermoeidheid, pijn, gewichtsverlies en koorts;
 	- Vaker naar het toilet;

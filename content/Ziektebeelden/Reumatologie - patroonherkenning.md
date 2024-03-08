@@ -91,7 +91,7 @@ Sommmige auto-immuunziekten zoals coeliakie en schildklierziekten (zoals de ziek
 
 
 
-[^1]: [[C2 IBD]]
+[^1]: [[IBD]]
 [^2]: [[Fenomeen van Raynaud]]
 
 
