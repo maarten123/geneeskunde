@@ -59,7 +59,7 @@ Deze hebben een verbinding, de arteria gastroduodenale. In het gebied bij dit va
 Erytrhomycine (antibioticum) vooraf en gastroduodenoscopie: om de maaglediging te bevorderen, zodat de maag beter beoordeeld kan worden.
 
 #### Differentiaal diagnose
-[[C1 Bloedingen]]
+[[Gastro-intestinale bloedingen]]
 
 #### Behandeling
 <u>**Middels endoscopie**</u>:
