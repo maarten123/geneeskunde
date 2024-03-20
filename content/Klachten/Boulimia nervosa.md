@@ -1,6 +1,7 @@
 ---
 status: 
-tags: 
+tags:
+  - Psychiatrie/Eetstoornissen
 type: 
 compleet: false
 aliases:
@@ -15,13 +16,12 @@ publish: true
 - Tijdens eetbuien wordt in korte tijd een hoeveelheid voedsel gegeten die groter is dan de meeste mensen in die tijdspanne en onder dezelfde omstandigheden zouden kunnen eten.
 - Gevoel niet te kunnen stoppen tijdens eetbuien.
 	- Men eet sneller dan gewoonlijk en niet omwille van honger, maar als respons op negatieve gevoelens. Helaas nemen deze gevoelens na de eetbui verder toe.
-- **Vrees voor gewichtstoename:** uit zich in compensatiegedrag, zoals braken, laxeren, misbruik van vermageringspillen of excessief sporten.
+- **Vrees voor gewichtstoename:** uit zich in compensatiegedrag, zoals [[braken]], laxeren, misbruik van vermageringspillen of excessief sporten.
 - Deze stoornis wordt vaak over het hoofd gezien, door weinig problemen met het uiterlijk en schaamte of schuldgevoel.
 
 **2 typen**
 - **Niet-purgerend**: vasten of veel sporten
 - **Purgerend**: braken of gebruik van diuretica of laxantia.
-
 - **Criteria**
     1. Recidiverende eetbui-episoden. Een eetbui-episode wordt gekenmerkt door beide volgende kenmerken:
         1. Het in een afzonderlijke tijdsperiode (bijvoorbeeld binnen een periode van twee uur) eten van een hoeveelheid voedsel die beslist groter is dan die de meeste mensen binnen dezelfde tijd onder vergelijkbare omstandigheden zouden eten.
@@ -31,12 +31,12 @@ publish: true
     - De lichaamsvorm en het lichaamsgewicht hebben een onevenredig grote invloed op het oordeel over zichzelf.
 
 #### Voorgeschiedenis
-- Adipositas
+- [[Adipositas]]
 - Pesten
 - Negatief zelfbeeld
-- Zwart-wit denken
+- [[Zwart-wit denken]]
 - Zelfverwijt etc.
 
 #### Behandeling
-- CGT; greep krijgen op emoties in relatie tot eten, zelfbeeld etc.
+- [[Cognitieve gedragstherapie|CGT]]; greep krijgen op emoties in relatie tot eten, zelfbeeld etc.
 - Evt. [[SSRI's]]

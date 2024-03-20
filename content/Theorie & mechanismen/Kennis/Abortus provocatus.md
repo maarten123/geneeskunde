@@ -1,10 +1,24 @@
 ---
+title: Abortus provocatus
+draft: false
+tags:
+  - Gynaecologie
+  - Wetgeving
+  - Zwangerschap
+aliases:
+  - Abortus
+  - Abortion
 publish: true
+description:
 ---
+
+
+
+
 # Abortus provocatus
 
-- Als de patiënt 16 dagen of minder overtijd is, heeft deze geen verplichte bedenktijd van 5 dagen voor een vroege abortus (overtijdbehandeling).
-- Alleen een abortuskliniek of ziekenhuis met een vergunning van het ministerie van Volksgezondheid Welzijn en Sport (VWS) mag een vroege abortus uitvoeren.
+- **Bedenktijd**: als de patiënt 16 dagen of minder [[overtijd]] is, heeft deze geen verplichte bedenktijd van 5 dagen voor een vroege abortus (overtijdbehandeling).
+- **Wie mag een abortus uitvoeren?**: alleen een abortuskliniek of ziekenhuis met een vergunning van het ministerie van Volksgezondheid Welzijn en Sport (VWS) mag een vroege abortus uitvoeren.
 - De zwangerschap kan zowel medicamenteus (de abortuspil) als instrumenteel afgebroken worden.
 - **Methoden**
     - Binnen 6 weken en 2 dagen na de eerste dag van de laatste menstruatie kan een zuigcurettage van de baarmoederinhoud worden uitgevoerd zonder cervixdilatatie.
@@ -17,8 +31,8 @@ publish: true
 
 **Eerste trimester:**
 
-- Abortus pil: tot 9 wk
-- Zuigcurettage: tot 13 wk
+- [[Abortus pil]]: tot 9 wk
+- [[Zuigcurettage]]: tot 13 wk
 
 **Tweede trimester:**
 
@@ -26,7 +40,7 @@ publish: true
 - Na 24 wk alleen obv zwaarwegende motieve
 
 ##### Wetgeving
-Sinds 1984 is de Wet Afbreking Zwangerschap van kracht. In deze wet staat hoe de abortushulpverlening in Nederland is geregeld. Een zwangere vrouw kan ervoor kiezen om haar zwangerschap af te breken.Enkele belangrijke voorwaarden voor het afbreken van een zwangerschap die in de wet worden genoemd zijn:
+Sinds 1984 is de Wet Afbreking Zwangerschap van kracht. In deze wet staat hoe de abortushulpverlening in Nederland is geregeld. Een zwangere vrouw kan ervoor kiezen om haar [[zwangerschap]] af te breken. Enkele belangrijke voorwaarden voor het afbreken van een zwangerschap die in de wet worden genoemd zijn:
 -   Een abortus mag tot de 24e week van de zwangerschap*.
 -   Als je langer dan 16 dagen over tijd bent, geldt een verplichte bedenktijd van 5 dagen.
 -   Deze verplichte bedenktijd gaat in op het moment dat een arts de zwangerschap heeft vastgesteld (dit hoeft niet de eigen huisarts te zijn).

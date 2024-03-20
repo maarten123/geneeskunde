@@ -21,7 +21,7 @@ De term eetstoornis verwijst naar abnormaal eetgedrag dat gekoppeld is aan een o
 - Vermijdende/restrictieve voedselinname stoornis
 
 #### Eetbuien
-Bij 3 eetstoornissen komen eetbuien voor. Altijd bij boulimia nervosa en eetbuistoornissen en bij het purgerende type van anorexia nervosa. 
+Bij 3 eetstoornissen komen eetbuien voor. Altijd bij [[boulimia nervosa]] en eetbuistoornissen en bij het purgerende type van anorexia nervosa. 
 - Bij purgerend anorexia nervosa: 
 	- Subjectieve eetbuien, kleine hoeveelheden
 	- Compensatie om gewicht te verliezen en niet aan te komen, ondergewicht

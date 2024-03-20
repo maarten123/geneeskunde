@@ -1,9 +1,14 @@
 ---
-banner: https://images.unsplash.com/photo-1604079628040-94301bb21b91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80
-banner_y: 0.48313
-banner_title: Advance care planning
+title: Advance care planning
+draft: false
+tags:
+  - Procedures
+aliases:
+  - ACP
 publish: true
+description:
 ---
+
 **Advance care planning** = een (cyclisch) proces van communicatie en onderhandeling tussen arts en patiënt over patiëntgerichte doelen en daarbij passende zorg;
 
 - **Planning**: het vaststellen van in de toekomst te realiseren doelen, inclusief de maatregelen die nodig zijn om die doelen te bereiken.
@@ -31,7 +36,7 @@ ACP loopt vooruit op het ziektebeloop;
 - Zal ik als dokter verbaasd zijn als de patiënt tussen nu en een jaar komt te overlijden? 
 - Is het antwoord nee → ga met de patiënt in gesprek.
 
-**Shared decision making** (SDM)
+**[[Shared Decision Making]]** (SDM)
 Belangrijk voor SDM:
 - Heldere informatie
 - Kwaliteit van leven
