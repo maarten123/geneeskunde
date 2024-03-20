@@ -30,10 +30,10 @@ publish: true
 	- Score:
 		- ![|450](https://i.imgur.com/MeNsUy4.png)
 - **ALS** 
-	- **Advanced Life Support** is een reeks levensreddende protocollen en vaardigheden die de basale levensondersteuning uitbreiden om de bloedsomloop verder te ondersteunen en een open luchtweg en voldoende ventilatie te bieden.
+	- **[[Advanced Life Support]]** is een reeks levensreddende protocollen en vaardigheden die de basale levensondersteuning uitbreiden om de bloedsomloop verder te ondersteunen en een open luchtweg en voldoende ventilatie te bieden.
 - **BLS/AED** 
-	- Basic Life Support/ Automatische Externe Defibrillator
-	- Reanimatie + AED
+	- [[Basic Life Support]]/ Automatische Externe Defibrillator
+	- [[Reanimatie]] + [[AED]]
 - **CRM** 
 	- [[Crew Resource Management]]
 	- CRM is teamconcept dat eind jaren zeventig in de luchtvaart werd geïntroduceerd om incidenten te voorkomen.
@@ -48,5 +48,5 @@ publish: true
 - **VAS/NRS** 
 	- Visual Analog Scale/ Numric Rating Scale
 - **HET/LET** 
-	- Hoog-Energetisch Trauma/ Laag-Energetisch Trauma
+	- [[Hoog-Energetisch Trauma]]/ Laag-Energetisch Trauma
 

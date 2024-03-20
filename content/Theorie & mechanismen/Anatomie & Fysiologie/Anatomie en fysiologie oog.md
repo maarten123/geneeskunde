@@ -17,7 +17,7 @@ publish: true
 -   **Oogleden**: palpebrae (4 oogleden)
 -   **Traanwegen**: ducti lacrimales (6 traanwegen)
 
-![|450](https://i.imgur.com/aTDT44H.png)
+<img width="400px" src="https://i.imgur.com/aTDT44H.png"></img>
 
 #### ◻️ De oogbol (bulbus oculi)
 - **3 lagen**:
@@ -34,15 +34,31 @@ publish: true
 	    -   Retina: lichtgevoelige weefsel van het oog.
 	    -   Macula: gele vlek
 	        -   Fovea, middelste deel van de macula, hier zitten de meeste kegeltjes.
-	        - ![|200](https://i.imgur.com/EX2b7Zt.png)
+	        - <img width="200px" src="https://i.imgur.com/EX2b7Zt.png"></img>
 
 
-![|350](https://i.imgur.com/Xp12NB3.png)![|350](https://i.imgur.com/RwA9cKt.png)
+<img width="400px" src="https://i.imgur.com/RwA9cKt.png"></img>
+<img width="400px" src="https://i.imgur.com/Xp12NB3.png"></img>
 
-![|150](https://i.imgur.com/f12iLL3.png)![|250](https://i.imgur.com/2kchz8G.png)![|200](https://i.imgur.com/b2ShnBu.png)
+| ![\|150](https://i.imgur.com/f12iLL3.png) | ![\|200](https://i.imgur.com/2kchz8G.png) | ![\|150](https://i.imgur.com/b2ShnBu.png) |
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+
+
+
+
+
+
+
 
 #### ◻️ Segmenten van het oog
-![|300](https://i.imgur.com/CnVDszA.png)![|300](https://i.imgur.com/RzuP8Rz.png)
+
+| ![\|300](https://i.imgur.com/CnVDszA.png) | ![\|240](https://i.imgur.com/RzuP8Rz.png) |
+| ----------------------------------------- | ----------------------------------------- |
+
+
+
+
+
 
 
 
@@ -56,7 +72,7 @@ Anterior en posterior beiden gevult met **kamerwater,** geproduceert door het co
 #### ◻️ Lens
 Bevindt zich achter de **iris** en voor het **corpus vitreum**.
 
-![|500](https://i.imgur.com/hzVSFZt.png)
+<img width="500px" src="https://i.imgur.com/hzVSFZt.png"></img>
 
 **Onderdelen lens:**
 
@@ -77,7 +93,7 @@ Enige onderdeel van de optische as die kan worden scherp gesteld → accomodatie
 3. Ontspannen is gezichtsveld naar oneindig
 4. Aanspannen naar dichtbij
 
-![|350](https://i.imgur.com/WLPFi0I.png)
+<img width="350px" src="https://i.imgur.com/WLPFi0I.png"></img>
 
 **Veroudering**
 - Verlies van elastischiteit lens → verlies accomodatievermogen.
@@ -88,7 +104,14 @@ Enige onderdeel van de optische as die kan worden scherp gesteld → accomodatie
 
 Fotoreceptieve deel van het oog. Directe uitloper van de nervus opticus en is dus een directe uitloper van het CZS. Het enige stuk CZS wat aan de buitenkant van het lichaam waarneembaar is. De zenuwuiteinden lopen over de zenuwreceptorcellen.
 
-![|250](https://i.imgur.com/wD53vnj.png)![|200](https://i.imgur.com/X8DTNFv.png)
+
+| ![\|250](https://i.imgur.com/wD53vnj.png) | ![\|200](https://i.imgur.com/X8DTNFv.png) |
+| ----------------------------------------- | ----------------------------------------- |
+
+
+
+
+
 
 
 -   Pigment epiteel bevat staaftjes en kegeltjes,
