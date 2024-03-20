@@ -36,16 +36,48 @@ Bij 3 eetstoornissen komen eetbuien voor. Altijd bij [[boulimia nervosa]] en eet
 #### Differentiaal diagnose
 - **Onderscheid eetstoornissen**: moeilijk, eetstoornissen kunnen naast of na elkaar optreden.
 - **Verschil met [[cachexie]]**: op basis van ernstige lichamelijke ziekte.
-- **Onderscheid morfodysfore stoornis**: focus bij anorexia nervosa is steevast om de buik, billen en bovenbenen. Stellige overtuiging dik te zijn, geen overtuiging een andere afwijking aan het lichaam te hebben.
-- **Psychosespectrum:** door waanachtige overtuigingen vaak moeilijk te maken, bij anorexia nog wel vaak voldoende realiteitsbesef.
-- **ASD en [[Obsessieve-Compulsieve Stoornis|OCS]]:** hier hangt het niet samen met een verstoorde lichaamsbeleving, maar rigide denkbeelden of stereotiepe afkeuring van bepaalde typen voedsel.
-
+- **Onderscheid [[morfodysfore stoornis**]]: focus bij anorexia nervosa is steevast om de buik, billen en bovenbenen. Stellige overtuiging dik te zijn, geen overtuiging een andere afwijking aan het lichaam te hebben.
+- **[[Psychosespectrum]]:** door waanachtige overtuigingen vaak moeilijk te maken, bij anorexia nog wel vaak voldoende realiteitsbesef.
+- **[[ASD]] en [[Obsessieve-Compulsieve Stoornis|OCS]]:** hier hangt het niet samen met een verstoorde lichaamsbeleving, maar rigide denkbeelden of stereotiepe afkeuring van bepaalde typen voedsel.
 #### Pathogenese
 - Bij Anorexia Nervosa en Boulimia Nervosa is er sprake van een neurobiologische regulatie stoornis, die getriggerd wordt door omgevingsstress.
     Voorbeeld: Een hele groep meisjes voelt zich te dik… de meeste houden zelf op met dieet, het meisje dat biologisch kwetsbaar is schiet door.
 - Geen typische gezinskenmerken. Wel hogere kans bij ouders met psychiatrische problemen, eetproblemen, relatieproblemen ouders of een opvoeding met de nadruk op presteren.
 - Persoonskenmerken als rigiditeit, perfectionisme, zwakke centrale coherentie (grotere geheel niet kunnen zien, cq andere perspectieven).
 - NB boulimia; VG adipositas, pesten, negatief zelfbeeld, zwart-wit denken, zelfverwijt etc.
+### Beloop en prognose
+
+**Anorexia**
+
+- 5-10% mortaliteit
+- 1/3 wordt de aandoening chronisch.
+- Jonge patiënten grootste kans op herstel: 75%.
+    - Op latere leeftijd meer comorbiditeit.
+
+### Comorbiditeit
+
+- [[Stemmingsstoornissen]] (60.4%),
+- [[Angststoornissen]] zoals ([[OCD]]) (25.7%),
+- [[Middelen misbruik]] (7.9%).
+
+## Behandeling
+
+**Bij Anorexia Nervosa:**
+
+- Gewichtsherstel
+- Cognitieve gedragstherapie gefocust op eetgedrag en zelfbeeld.
+- Zeker bij adolescenten betrekken van ouders en gezin om verhoudingen te herstellen en vicieuze cirkels van machteloosheid te doorbreken.
+- Soms [[olanzapine]], om de irreëele angst voor eten verminderen.
+
+**Bij Boulimia:**
+
+- [[Cognitieve gedragstherapie|CGT]]; greep krijgen op emoties in relatie tot eten, zelfbeeld etc.
+- Evt. [[SSRI's|SSRI]]
+
+**Bij eetbuistoornis**
+
+Bij de eetbuitstoornis met overgewicht moeten, naast het herstel van een gezond eetpatroon, ook gedragsmatige interventies op het vlak van beweging voldoende aandacht krijgen. Fysieke activiteit heeft bovendien ook bij overgewicht gunstige effecten op het lichamelijke en psychische welzijn.
+
 
 #### References
 [NTVG](https://www.ntvg.nl/artikelen/anorexia-nervosa-en-boulimia-nervosa-iii-somatische-gevolgen-van-purgeren#:~:text=Pati%C3%ABnten%20met%20anorexia%20nervosa%20of,de%20opname%20van%20voeding%20nauwelijks)
