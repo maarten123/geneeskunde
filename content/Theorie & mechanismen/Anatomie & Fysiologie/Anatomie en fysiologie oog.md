@@ -13,7 +13,7 @@ publish: true
 
 #### ◻️ Oog en andnexe
 -   **Oogbol**: bulbus oculi (2 ogen)
--   **Oogkas**: orbita (2 oogkassen)
+-   **Oogkas**: [[Orbita|orbita]] (2 oogkassen)
 -   **Oogleden**: palpebrae (4 oogleden)
 -   **Traanwegen**: ducti lacrimales (6 traanwegen)
 
@@ -27,11 +27,11 @@ publish: true
 	        -   Aan de voorzijde van het oog gaat de sclera over in de cornea, de scheiding tussen sclera en cornea heet de limbus.
 	        -   Samen met de traanvil, zorgt de cornea er voor dat licht het oog goed binnen kan komen.
 	-   <span style='color:#fa8231'>Tunica vasculosa</span>
-	    -   Uvea: iris, het corpus cilary en het choroid
+	    -   [[Uvea]]: iris, het corpus cilary en het choroid
 	    -   Choroidea: vaatvlies van het oog.
 	    -   Corpus ciliare: zorgt samen met de zona ciliaris voor het accommoderen van de lens.
 	-   <span style='color:#f7b731'>Tunica interna</span>
-	    -   Retina: lichtgevoelige weefsel van het oog.
+	    -   [[Retina]]: lichtgevoelige weefsel van het oog.
 	    -   Macula: gele vlek
 	        -   Fovea, middelste deel van de macula, hier zitten de meeste kegeltjes.
 	        - <img width="200px" src="https://i.imgur.com/EX2b7Zt.png"></img>
@@ -257,14 +257,14 @@ Route die het licht aflegt naar de hersenen
 **m. sphincter pupillae**
 
 -   Parasympatische innervatie
--   Dempende stoffen (morphine, heroine) → miose (nauwe pupil)
+-   Dempende stoffen ([[Morfine|morfine]], [[Heroine|heroine]]) → [[Miose|miose]] (nauwe pupil)
 -   Lichtinval → miose
 -   Dichtbijreflex → convergentie, accomodatie + miose
 
 **m. dilatator pupillae**
 
 -   Sympatische innervatie
--   Oppeppende stoffen (cocaïne) → mydriasis
+-   Oppeppende stoffen ([[Cocaïne|cocaïne]]) → [[Mydriasis|mydriasis]]
 -   Donkere omgeving → mydriasis
 
 **Pupilreflex**

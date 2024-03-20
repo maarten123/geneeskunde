@@ -47,10 +47,6 @@ Bij 3 eetstoornissen komen eetbuien voor. Altijd bij [[boulimia nervosa]] en eet
 - Persoonskenmerken als rigiditeit, perfectionisme, zwakke centrale coherentie (grotere geheel niet kunnen zien, cq andere perspectieven).
 - NB boulimia; VG adipositas, pesten, negatief zelfbeeld, zwart-wit denken, zelfverwijt etc.
 
-#### Links
-[[D4 Eetstoornissen]]
-
-
 #### References
 [NTVG](https://www.ntvg.nl/artikelen/anorexia-nervosa-en-boulimia-nervosa-iii-somatische-gevolgen-van-purgeren#:~:text=Pati%C3%ABnten%20met%20anorexia%20nervosa%20of,de%20opname%20van%20voeding%20nauwelijks)
 [GGZ Standaarden](https://www.ggzstandaarden.nl/zorgstandaarden/eetstoornissen/over-eetstoornissen)
