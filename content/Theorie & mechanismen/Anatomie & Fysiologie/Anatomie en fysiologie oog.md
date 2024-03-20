@@ -40,20 +40,17 @@ publish: true
 <img width="400px" src="https://i.imgur.com/RwA9cKt.png"></img>
 <img width="400px" src="https://i.imgur.com/Xp12NB3.png"></img>
 
-| ![\|150](https://i.imgur.com/f12iLL3.png) | ![\|200](https://i.imgur.com/2kchz8G.png) | ![\|150](https://i.imgur.com/b2ShnBu.png) |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-
-
-
-
+| <img width="150px" src="https://i.imgur.com/f12iLL3.png"></img> | <img width="200px" src="https://i.imgur.com/2kchz8G.png"></img> | <img width="150px" src="https://i.imgur.com/b2ShnBu.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 
 
 
 
 #### ◻️ Segmenten van het oog
 
-| ![\|300](https://i.imgur.com/CnVDszA.png) | ![\|240](https://i.imgur.com/RzuP8Rz.png) |
-| ----------------------------------------- | ----------------------------------------- |
+
+| <img width="300px" src="https://i.imgur.com/CnVDszA.png"></img> | <img width="240px" src="https://i.imgur.com/RzuP8Rz.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
 
 
 
@@ -133,7 +130,7 @@ Fotoreceptieve deel van het oog. Directe uitloper van de nervus opticus en is du
 > - Staafjes
 > 	- Verschil licht en donker, kunnen zien in het weinig licht/donker.
 > 	- Volledig instellen van staafjes is langzamer, pas na enige tijd kan je goed zien in het donker.
-> 	- ![|300](https://i.imgur.com/Jr5c3t2.png)
+> 	- <img width="300px" src="https://i.imgur.com/Jr5c3t2.png"></img>
 
 
 #### ◻️ Adnexen
@@ -146,7 +143,7 @@ Omliggende structuren rond het oog
 -   Wimper
 -   Tarsale plaat: bescherming oog
 
-![|250](https://i.imgur.com/ELE7py3.png)
+<img width="250px" src="https://i.imgur.com/ELE7py3.png"></img>
 
 
 **Conjuctiva**
@@ -157,7 +154,12 @@ Omliggende structuren rond het oog
 -   M. Orbicularis oculi: sluit het oog
 -   M. Levator palpebrae superioris: trekt het ooglid op
 
-![|250](https://i.imgur.com/KCSm3vP.png)![|250](https://i.imgur.com/h5igMtU.png)
+
+
+
+
+| <img width="250px" src="https://i.imgur.com/KCSm3vP.png"></img> | <img width="210px" src="https://i.imgur.com/h5igMtU.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
 
 
 
@@ -169,20 +171,22 @@ Door knipperen komt er een traanfilm over het hoornvlies. Traanfilm verdampt dee
 
 Bij hevige emotie of irritatie wordt er een grote hoeveelheid traanvocht geproduceerd door de glandula lacrimalis. Door overvloed van traanvocht in het afvoersysteen (gaat door de neus) gaat men snotteren.
 
-![|350](https://i.imgur.com/KXSsdHX.png)
+<img width="400px" src="https://i.imgur.com/KXSsdHX.png"></img>
 
 
 #### ◻️ Orbita (oogkas)
 
-![|400](https://i.imgur.com/VZdzXXM.png)
+<img width="400px" src="https://i.imgur.com/VZdzXXM.png"></img>
 
 
 - Bied bescherming tegen trauma.
 - **Orbita fractuur:** delen van de orbita zijn redelijk dun, deze kunnen makkelijk breken. Ookwel orbita blowout fractuur.
 
 #### ◻️ Musculatuur
-![|350](https://i.imgur.com/9Yt0g9S.png)![|350](https://i.imgur.com/bsVrdTk.png)![|250](https://i.imgur.com/FfXXK70.png)
 
+
+| <img width="200px" src="https://i.imgur.com/9Yt0g9S.png"></img> | <img width="225px" src="https://i.imgur.com/bsVrdTk.png"></img> | <img width="150px" src="https://i.imgur.com/FfXXK70.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 
 **Trochlea**: lus van bindweefsel, m. obliquus superior loopt hier omheen. Hierdoor staat de obliquus schuin en kan deze (net als de obliquus superior) het oog roteren.
 
@@ -208,7 +212,7 @@ Structuren in het oog worden voorzien van bloed door vertakkingen van de **a. op
 - **aa. ciliaris posterior en anterior**: voorziet vele structuren in het oog, zoals corpus ciliare en de choroidea.
 - **Musculaire arterien:** voorzien spieren van bloed.
 
-![|400](https://i.imgur.com/mXu3o9n.png)
+<img width="400px" src="https://i.imgur.com/mXu3o9n.png"></img>
 
 
 **Innervatie**
@@ -226,17 +230,23 @@ Structuren in het oog worden voorzien van bloed door vertakkingen van de **a. op
     -   Eerste aftakking van de N. trigeminus (n. V).
         -   Zorg voor gevoel in de cornea.
 
-![|500](https://i.imgur.com/YxdItVL.png)
+<img width="500px" src="https://i.imgur.com/YxdItVL.png"></img>
 
 
 #### ◻️ Gezichtsvelden
 
-![|400](https://i.imgur.com/bwCy5Sp.png)
+<img width="400px" src="https://i.imgur.com/bwCy5Sp.png"></img>
 
 Route die het licht aflegt naar de hersenen
 
-![|250](https://i.imgur.com/xtVOQOP.png)
-![|250](https://i.imgur.com/EFPWquz.png)
+
+| <img width="200px" src="https://i.imgur.com/xtVOQOP.png"></img> | <img width="280px" src="https://i.imgur.com/EFPWquz.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
+
+
+
+
+
 
 
 
@@ -258,7 +268,12 @@ Route die het licht aflegt naar de hersenen
 -   Donkere omgeving → mydriasis
 
 **Pupilreflex**
-![|350](https://i.imgur.com/gvzEsfe.png)![|100](https://i.imgur.com/8TTfJZ6.png)
+
+| <img width="300px" src="https://i.imgur.com/gvzEsfe.png"></img> | <img width="100px" src="https://i.imgur.com/8TTfJZ6.png"></img> |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
+
+
+
 
 
 
