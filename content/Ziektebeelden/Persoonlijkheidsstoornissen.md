@@ -4,7 +4,7 @@ draft: false
 tags:
   - Psychiatrie/Persoonlijkheidsstoornissen
 aliases: 
-publish: false
+publish: true
 description:
 ---
 #### Kenmerken
