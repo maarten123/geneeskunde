@@ -125,7 +125,7 @@ Bij hypnose en meditatie wordt actief ingezet op het vernauwen van het bewustzij
 - Pathologische vormen van bewustzijnsvernauwing komen voor bij diverse ziektebeelden.e
 
 Voorbeelden hiervan zijn:
-- Een patiënt die een herbeleving van een traumatische gebeurtenis heeft en hier zo in opgaat dat hij/zij zich even niet meer ervaart in het 'hier en nu' te zijn. Dit is één van de uitingsvormen van [[Dissociatieve stoornissen|dissociëren]].
+- Een patiënt die een herbeleving van een traumatische gebeurtenis heeft en hier zo in opgaat dat hij/zij zich even niet meer ervaart in het 'hier en nu' te zijn. Dit is één van de uitingsvormen van [[content/Ziektebeelden/Dissociatieve stoornissen|dissociëren]].
 - Een patiënt met een [[psychose]] die zo in beslag genomen wordt door de stemmen die hij/zij hoort dat anderen niet meer goed tot hem/haar kunnen doordringen.
 - Een vernauwd bewustzijn kan overigens ook voorkomen bij neurologische ziektebeelden zoals [[Topics/Aandoeningen/Epilepsie]].
 

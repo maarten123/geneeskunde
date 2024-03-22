@@ -315,13 +315,13 @@ Verschillende typen van narcisme: overt en covert, gevoelig en ongevoelig.
 
 60% lijdt aan een comorbide psychiatrische stoornis
 
-- [[Stemmingstoornissen]]
+- [[(Depressieve) Stemmingstoornissen|Stemmingstoornissen]]
 - [[Angststoornissen]]
 - [[Post-traumatische stress-stoornis]]
 - [[Eetstoornissen]]
 - [[Stoornissen in het gebruik van een middel]]
 - [[Kortdurende psychotische stoornissen]]
-- [[Dissociatieve stoornissen]]
+- [[content/Ziektebeelden/Dissociatieve stoornissen]]
 - [[Somatisch-symtoomstoornissen]]
 
 ## Therapie
