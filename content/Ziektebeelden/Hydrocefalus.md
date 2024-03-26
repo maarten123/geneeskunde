@@ -54,15 +54,14 @@ Je kunt de symptomen en de beelden van hydrocefalus op **aanvullend onderzoek** 
 
 
 **Terugresorptie liquor**
-- Via de **granulationes van Paccioni** wordt het liquor afgevoerd naar de sinus sagittalis superior.
-    - Vermoedelijk ook via transependymale opname zowel thv ventrikel als in myelum.
+- Via de **[[granulationes van Paccioni]]** wordt het liquor afgevoerd naar de [[sinus sagittalis]] superior.
+    - Vermoedelijk ook via transependymale opname zowel thv ventrikel als in [[myelum]].
 
 #### Probleem bij hydrocefalus
 
-De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijging van de intercraniële druk. 
+De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijging van de [[intercraniële druk]]. 
 
-![|350](https://i.imgur.com/iXng1OY.png)
-
+<img width="400px" src="https://i.imgur.com/iXng1OY.png"></img>
 
 ### Etiologie: Oorzaken hydrocefalus
 
