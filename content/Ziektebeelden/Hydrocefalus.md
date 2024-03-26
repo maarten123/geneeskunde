@@ -104,13 +104,13 @@ De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijgin
 
 **Symptomen**
 
-- Hoofdpijn
-- Braken
-- Visusprobleem
-- Verticale blikparese
-- Loopstoornissen
-- Mictiestoornissen
-- Daling bewustzijn
+- [[Hoofdpijn]]
+- [[Braken]]
+- [[Visusprobleem]]
+- [[Verticale blikparese]]
+- [[Loopstoornissen]]
+- [[Mictiestoornissen]]
+- [[Daling bewustzijn]]
 
 **Verticale blikparese**
 
@@ -121,7 +121,8 @@ Kan niet beiden ogen in een bepaalde richting (bij verticaal dus in dit vlak) ki
 
 **Hydrocefalus kind <1,5 jaar**
 Schedelnaden zijn nog niet gesloten, schedel wordt groter door de verhoogde druk.
-![|200](https://i.imgur.com/12PDMjO.png)
+
+<img width="200px" src="https://i.imgur.com/12PDMjO.png"></img>
 
 
 
