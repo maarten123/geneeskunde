@@ -90,13 +90,13 @@ De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijgin
   
 | Zijventrikels en derde ventrikel | Alle vier de ventrikels |
     | --- | --- |
-    | Suprasellaire tumoren met impressie van het 3e ventrikel | [[subarachnoïdale]] bloeding |
-    | Colloïdcyste van het derde ventrikel | Brughoektumor |
-    | Aquaductstenose (aangeboren, tumor, toxoplasmose, gliose) | Meningitis  |
-    | Pinealoom  |  |
-    | Vaatmalformatie (vena Galeni) |  |
-    | Cerebellaire tumoren |  |
-    | Cerebellair hematoom |  |
+    | [[Suprasellaire tumor]]en met impressie van het 3e ventrikel | [[subarachnoïdale]] bloeding |
+    | [[Colloïdcyste]] van het derde ventrikel | [[Brughoektumor]] |
+    | Aquaductstenose (aangeboren, tumor, toxoplasmose, [[gliose]]) | Meningitis  |
+    | [[Pinealoom]]  |  |
+    | Vaatmalformatie ([[vena Galeni]]) |  |
+    | [[Cerebellaire tumoren]] |  |
+    | [[Cerebellair hematoom]] |  |
 
 ### Kliniek
 

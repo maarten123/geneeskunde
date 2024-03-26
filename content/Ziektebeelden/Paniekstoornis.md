@@ -17,7 +17,7 @@ description:
 
 
 ##### Paniekaanval
-- Minstens 10% van de algemene bevolking maakt ooit in zijn leven een [[paniekaanval]] mee.
+- Minstens 10% van de algemene bevolking maakt ooit in zijn leven een [[Paniekaanval]] mee.
 - Dit is een risicofactor voor het ontwikkelen van een paniekstoornis en daarnaast voor verschillende andere aandoeningen. 
 - **Criteria voor de paniekaanval (naar de DSM-5)**
     - Een plotselinge golf van intense angst of intens onbehagen die binnen enkele minuten een piek bereikt en die gepaard gaat met vier (of meer) van de volgende symptomen.
