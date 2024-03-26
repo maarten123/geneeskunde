@@ -13,7 +13,7 @@ description:
 Je kunt de symptomen en de beelden van hydrocefalus op **aanvullend onderzoek** herkennen. Je kunt op basis van kennis over **pathofysiologie** en mogelijke **oorzaken** een **differentiaal diagnose** opstellen bij hydrocefalus en een globaal voorstel doen voor **behandeling**.
 
 #### Anatomie
-
+[[Anatomie CZS]]
 
 [https://www.youtube.com/watch?v=rOOtobmJV5Q](https://www.youtube.com/watch?v=rOOtobmJV5Q)
 
@@ -23,7 +23,7 @@ Je kunt de symptomen en de beelden van hydrocefalus op **aanvullend onderzoek** 
 - Aandoening waarbij de hersenholtes zijn vergroot door een teveel aan hersenvocht.
 - Dit kan leiden tot een verhoogde druk in de hersenen.
 
-![](https://i.imgur.com/uZPtTHm.png)
+<img width="500px" src="https://i.imgur.com/uZPtTHm.png"></img>
 
 
 #### Normale hersendruk
@@ -35,15 +35,21 @@ Je kunt de symptomen en de beelden van hydrocefalus op **aanvullend onderzoek** 
 
 #### Liquor
 
-- Liquor wordt aangemaakt in de plexus choroidus.
+- [[Liquor]] wordt aangemaakt in de [[plexus choroidus]].
 - De plexus choroideus bevindt zich bij volwassenden in de laterale ventrikels.
-- 150ml liquor in ventriculair systeem.
+- 150ml liquor in [[ventriculair systeem]].
 - 500ml per dag aan liquor wordt aangemaakt.
 
-![|350](https://i.imgur.com/QfrqtcZ.png)
-![|250](https://i.imgur.com/0ytD7Ah.png)
-![|250](https://i.imgur.com/UGjyJbR.png)
-![|250](https://i.imgur.com/h6V8jrf.png)
+
+| <img width="200px" src="https://i.imgur.com/QfrqtcZ.png"></img>    |   <img width="200px" src="https://i.imgur.com/0ytD7Ah.png"></img>  |
+| --- | --- |
+|  <img width="200px" src="https://i.imgur.com/UGjyJbR.png"></img>   |  <img width="200px" src="https://i.imgur.com/h6V8jrf.png"></img>   |
+
+
+
+
+
+
 
 
 
