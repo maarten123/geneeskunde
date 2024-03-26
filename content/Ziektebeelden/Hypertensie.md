@@ -5,7 +5,9 @@ tags:
   - Cardiologie
   - CVRM
   - Ziektebeeld
-aliases: 
+aliases:
+  - Hoge bloeddruk
+  - hoge bloeddruk
 description: 
 publish: true
 ---
