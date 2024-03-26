@@ -66,27 +66,26 @@ De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijgin
 ### Etiologie: Oorzaken hydrocefalus
 
 1. Verhoogde aanmaak liquor
-    - Zeldzaam, in geval van **plexustumor**.
+    - Zeldzaam, in geval van **[[Plexustumor|plexustumor]]**.
 2. Gestoorde afvoer
-    - **Obstructiehydrocefalus**: probleem in het ventrikel systeem zelf.
-    - **Communicerende hydrocefalus:** probleem in de terugresorptie naar de sinus saggitalis superior.
+    - **[[Obstructiehydrocefalus]]**: probleem in het ventrikel systeem zelf.
+    - **[[Communicerende hydrocefalus]]:** probleem in de terugresorptie naar de [[sinus saggitalis superior]].
 
-![|350](https://i.imgur.com/cUdlAYi.png)
-![|200](https://i.imgur.com/dKg7BlK.png)
+<img width="510px" src="https://i.imgur.com/cUdlAYi.png"></img> <img width="200px" src="https://i.imgur.com/dKg7BlK.png"></img>
 
 
-4e ventrikel is nauw (witte pijl), 3e ventrikel is verwijd (blauwe pijl). **Obstructie ter hoogte aquaduct.** 
+[[4e ventrikel]] is nauw (witte pijl), [[3e ventrikel]] is verwijd (blauwe pijl). **Obstructie ter hoogte aquaduct.** 
 
 ### Oorzaken
 
 | Obstructief | Communicerend |
 | --- | --- |
-| Tumor | [[Meningitis]] |
-| Bloeding | Subarachnoidale bloeding |
-| Colloidcyste | Sinustrombose |
-| Aquaductstenose door congenitale infectie (toxoplasmose) |  |
-| Genetisch bepaalde aquaductstenose (L1CAM mutatie) |  |
-| Chiari malformatie |  |
+| [[Tumor]] | [[Meningitis]] |
+| [[Bloeding]] | [[Subarachnoïdale bloeding]] |
+| [[Colloïdcyste]] | [[Sinustrombose]] |
+| [[Aquaductstenose]] door congenitale infectie ([[toxoplasmose]]) |  |
+| Genetisch bepaalde aquaductstenose ([[L1CAM mutatie]]) |  |
+| [[Chiari malformatie]] |  |
 
   
 | Zijventrikels en derde ventrikel | Alle vier de ventrikels |
