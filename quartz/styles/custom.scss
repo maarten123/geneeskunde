@@ -6,11 +6,11 @@ img:active {
     -ms-transform: scale(2); /* IE 9 */
     -webkit-transform: scale(2); /* Safari 3-8 */
     transform: scale(2); 
-    opacity: 1;
+    opacity: 1 !important;
 
   }
 
 img:hover{
  cursor: pointer;
- opacity: 0.8;
+ opacity: 0.8; 
 }
