@@ -116,7 +116,7 @@ De toename aan liquor volume, bij een gelijk blijvende ruimte, zort voor stijgin
 
 Kan niet beiden ogen in een bepaalde richting (bij verticaal dus in dit vlak) kijken. 
 
-- Het verticale blikcentrum, wat de oogbewegingen regelt, ligt in het mesencefalon.
+- Het verticale blikcentrum, wat de oogbewegingen regelt, ligt in het [[mesencefalon]].
 - De vergrote 3e ventrikel drukt op het mesencefalon.
 
 **Hydrocefalus kind <1,5 jaar**
@@ -130,30 +130,28 @@ Schedelnaden zijn nog niet gesloten, schedel wordt groter door de verhoogde druk
 
 ##### MRI scan
 
-![|200](https://i.imgur.com/mosknlf.png)
+<img width="200px" src="https://i.imgur.com/mosknlf.png"></img>
 Normaal
-![|150](https://i.imgur.com/Z5rE8ef.png)
+
+<img width="200px" src="https://i.imgur.com/Z5rE8ef.png"></img>
 Hydrocefalus
 
 - De vertrikels zijn verwijd, herken op deze afbeelding de laterale en derde venrikel.
 - De ventrikels hebben een bolle vorm als gevolg van de verhoogde druk.
-- Door de verhoogde druk is er liquor uit de ventrikels in het hersenparenchym gedrukt.
+- Door de verhoogde druk is er liquor uit de ventrikels in het [[hersenparenchym]] gedrukt.
     - Dit zijn de witte vlekken die je aan de boven en de onderkant van de afbeelding ziet.
 
 #### Behandeling
 
-- Behandeling door middel van een liquordrainage.
-
+- Behandeling door middel van een [[liquordrainage]].
 - Door een boorgat in de schedel wordt een drain geplaatst in een van de laterale ventrikels.
     - Bij langere behandeling kan de drain subcutaan worden afgeleid naar de peritoneale holte, de pleura of het hart.
 
-![|350](https://i.imgur.com/lNd4GFt.png)
-
+<img width="300px" src="https://i.imgur.com/lNd4GFt.png"></img>
 
 - In het systeem bevindt zich een klepmechanisme waarmee een doorlaatdruk kan worden ingesteld (en voorkomen wordt dat buikvocht, longvocht of bloed in het ventrikelsysteem terechtkomt).
 
 **Risico’s drain**
-
 - Draininfectie
 - Draindisconnectie
 - Drainmigratie
