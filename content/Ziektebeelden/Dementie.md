@@ -4,6 +4,7 @@ draft: false
 tags:
   - Geriatrie/PG
   - Ziektebeeld
+  - Psychiatrie/Neurocognitieve_stoornissen
 aliases: 
 description: 
 publish: true

@@ -1,14 +1,15 @@
 ---
 title: Anatomie extremiteiten
-draft: true
+draft: false
 tags:
   - Anatomie
   - Orthopedie
-  - draft
+  - Reumatologie
 aliases: 
-description: 
 publish: true
+description:
 ---
+
 
 ## ◾Onderste extremiteiten (knie, enkel, voet)
 
@@ -16,7 +17,9 @@ publish: true
 
 ### Botten
 
-![Screenshot 2022-09-14 at 14.18.41.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.18.41.png)
+
+<img width="500px" src="https://i.imgur.com/95PEyMa.png"></img>
+
 
 | Patella: palpabele kenmerken van de botstukken |
 | --- |
@@ -30,15 +33,17 @@ publish: true
 | Laterale epicondyle |
 | Mediale epicondyle |
 
-![Screenshot 2022-09-14 at 14.19.27.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.19.27.png)
+
+<img width="500px" src="https://i.imgur.com/Z1G91zg.png"></img>
+
 
 ---
 
-![Screenshot 2022-09-14 at 14.22.21.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.22.21.png)
 
-![Screenshot 2022-09-14 at 14.27.13.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.27.13.png)
+<img width="500px" src="https://i.imgur.com/2XHjI5U.png"></img>
+<img width="500px" src="https://i.imgur.com/NSbk9iQ.png"></img>
+<img width="500px" src="https://i.imgur.com/4wiHI1T.png"></img>
 
-![Screenshot 2022-09-14 at 14.26.12.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.26.12.png)
 
 **Structuren**
 
@@ -51,15 +56,18 @@ publish: true
 - Mediale meniscus
 - Laterale meniscus
 
-![Screenshot 2022-09-14 at 14.28.12.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.28.12.png)
 
-![Screenshot 2022-09-14 at 14.28.32.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.28.32.png)
+<img width="300px" src="https://i.imgur.com/sOmMszs.png"></img>
+
+
 
 ---
 
 **Tibia en fibula**
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled.png)
+
+<img width="200px" src="https://i.imgur.com/GqfD28n.png"></img>
+
 
 | Tibia en fibula: palpabele kenmerken van de botstukken |
 | --- |
@@ -76,7 +84,8 @@ publish: true
 
 ---
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%201.png)
+<img width="400px" src="https://i.imgur.com/nWZ3dgC.png"></img>
+
 
 | Voet-enkel: palpabele kenmerken van de botstukken |
 | --- |
@@ -86,11 +95,14 @@ publish: true
 | art. talocruralis (bovenste spronggewricht) |
 | art. talocalcaneonavicularis en art. subtalaris (onderste spronggwricht) |
 
-![Screenshot 2022-09-14 at 14.39.18.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.39.18.png)
 
-![Screenshot 2022-09-14 at 14.39.43.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.39.43.png)
 
-![Screenshot 2022-09-14 at 14.40.04.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.40.04.png)
+<img width="400px" src="https://i.imgur.com/bDOKHpC.png"></img>
+
+
+
+<img width="300px" src="https://i.imgur.com/TIG5lyJ.png"></img>
+<img width="300px" src="https://i.imgur.com/aTnqFfG.png"></img>
 
 ---
 
@@ -111,13 +123,11 @@ publish: true
 - m. adductor magnus
 - m. gracilis
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%202.png)
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%203.png)
-
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%204.png)
-
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%205.png)
+<img width="200px" src="https://i.imgur.com/OrMP29v.png"></img>
+<img width="200px" src="https://i.imgur.com/Tddk2VU.png"></img>
+<img width="200px" src="https://i.imgur.com/sm6KGUB.png"></img>
+<img width="200px" src="https://i.imgur.com/6Nr2LGp.png"></img>
 
 ---
 
@@ -136,15 +146,15 @@ publish: true
 | m. flexor digitorum longus |  |
 | m. flexor hallucis longus |  |
 
-![Screenshot 2022-09-17 at 13.06.50.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.06.50.png)
 
-![Screenshot 2022-09-17 at 12.53.00.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.53.00.png)
+<img width="200px" src="https://i.imgur.com/binWEVo.png"></img>
+<img width="200px" src="https://i.imgur.com/j5p66iQ.png"></img>
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%206.png)
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%207.png)
+<img width="200px" src="https://i.imgur.com/KLqGhXY.png"></img>
 
-![Screenshot 2022-09-14 at 14.44.35.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-14_at_14.44.35.png)
+
+<img width="200px" src="https://i.imgur.com/Ea9FlF6.png"></img>
 
 ---
 
@@ -159,11 +169,13 @@ publish: true
 | Sternoclaviculair gewricht |
 | Acromioclaviculair gewricht |
 
-![Screenshot 2022-09-17 at 12.39.14.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.39.14.png)
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%208.png)
+<img width="200px" src="https://i.imgur.com/HYnxqoT.png"></img>
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%209.png)
+
+<img width="200px" src="https://i.imgur.com/OX7pR60.png"></img>
+
+<img width="200px" src="https://i.imgur.com/hTIfSz6.png"></img>
 
 ---
 
@@ -179,7 +191,8 @@ publish: true
 | Acromion |
 | Processus coracoideus |
 
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%2010.png)
+
+<img width="400px" src="https://i.imgur.com/GcjVr0f.png"></img>
 
 ---
 
@@ -193,9 +206,9 @@ publish: true
 | Mediale epicondyle |
 | Laterale epicondyle |
 
-![Screenshot 2022-09-17 at 12.45.01.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.45.01.png)
 
-![Screenshot 2022-09-17 at 12.45.36.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.45.36.png)
+<img width="200px" src="https://i.imgur.com/jqQ1EC9.png"></img>
+<img width="200px" src="https://i.imgur.com/NZbhCvq.png"></img>
 
 ---
 
@@ -207,9 +220,11 @@ publish: true
 | Processus styloideus ulnae |
 
 
-![Screenshot 2022-09-17 at 12.49.07.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.49.07.png)
+![](https://i.imgur.com/QVXeUoz.png)
+![](https://i.imgur.com/8MV7gTQ.png)
 
-![Screenshot 2022-09-17 at 12.53.51.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.53.51.png)
+
+![](https://i.imgur.com/mzG1Bbc.png)
 
 ---
 
@@ -220,27 +235,20 @@ publish: true
 | Radiocarpaal gewricht. |
 
 
-![|400](https://i.imgur.com/vpBAbj5.png)
+<img width="400px" src="https://i.imgur.com/ywZeNkA.png"></img>
+
 
 ### Spieren
 
 ---
 
-![Screenshot 2022-09-17 at 12.52.22.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.52.22.png)
 
-![Screenshot 2022-09-17 at 12.54.34.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.54.34.png)
-
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%2012.png)
-
-![Screenshot 2022-09-17 at 12.58.48.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.58.48.png)
-
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%2013.png)
-
-![Screenshot 2022-09-17 at 12.58.03.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_12.58.03.png)
-
-![Screenshot 2022-09-17 at 13.00.07.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.00.07.png)
-
-![Untitled](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Untitled%2014.png)
+<div class="image-grid">
+  <a href="https://i.imgur.com/1tg1KbR.png"><img src="https://i.imgur.com/1tg1KbR.png" class="resizable-image"></a>
+  <a href="https://i.imgur.com/O6MXgou.png"><img src="https://i.imgur.com/O6MXgou.png" class="resizable-image"></a>
+  <a href="https://i.imgur.com/QGfdj14.png"><img src="https://i.imgur.com/QGfdj14.png" class="resizable-image"></a>
+  <a href="https://i.imgur.com/OZLLYm1.png"><img src="https://i.imgur.com/OZLLYm1.png" class="resizable-image"></a>
+</div>
 
 | Relevante spieren |
 | --- |
@@ -277,18 +285,9 @@ publish: true
 | Thenar spierengroep |
 | Hypothenar spiergroep |
 
-![Screenshot 2022-09-17 at 13.05.59.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.05.59.png)
-
-![Screenshot 2022-09-17 at 13.06.18.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.06.18.png)
-
-![Screenshot 2022-09-17 at 13.07.01.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.07.01.png)
-
-![Screenshot 2022-09-17 at 13.05.43.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.05.43.png)
 
 ---
 
-![Screenshot 2022-09-17 at 13.08.25.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.08.25.png)
-
-![Screenshot 2022-09-17 at 13.08.40.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.08.40.png)
-
-![Screenshot 2022-09-17 at 13.08.58.png](Anatomie%20extremiteiten%205897a91d322040b6b3e3120370d2cbe8/Screenshot_2022-09-17_at_13.08.58.png)
+<img width="200px" src="https://i.imgur.com/TcMMMsH.png"></img>
+<img width="200px" src="https://i.imgur.com/I0pUOy5.png"></img>
+<img width="200px" src="https://i.imgur.com/dNOug8z.png"></img>

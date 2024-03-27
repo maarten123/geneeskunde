@@ -1,10 +1,21 @@
-# Verslaving
+---
+title: Middelenmisbruik
+draft: false
+tags:
+  - Verslavingsgeneeskunde
+  - Psychiatrie
+  - Ziektebeeld
+  - draft
+aliases:
+  - Verslaving
+  - Middelenmisbruik
+description: 
+publish: true
+---
 
-Status: Drang en verslaving
-Compleet?: Ja
-Flashcards?: Nee
 
-- **Classificatie van de middelgerelateerde en verslavingsstoornissen (naar de DSM-5)**
+#### Classificatie
+- **Classificatie van de middelgerelateerde en verslavingsstoornissen (DSM-5)**
     - Stoornis in het gebruik van een middel
     - Gokstoornis
     - Stoornissen door een middel/medicatie:
@@ -14,17 +25,17 @@ Flashcards?: Nee
 
 ---
 
-# Stoornissen in het gebruik van een middel
+### Stoornissen in het gebruik van een middel
 
 | Verdovende middelen | Stimulerende middelen | Waarnemingsveranderende middelen |
 | --- | --- | --- |
-| Alcohol | Cocaïne | LSD |
-| GHB | Speed | Ketamine |
-| Heroïne | XTC | Paddo’s |
-| Methadon | Thee | Hasj |
-| Opium | Koffie | Wiet |
-|  | Redbull | Poppers |
-|  | Tabak |  |
+| [[Alcohol]] | [[Cocaïne]] | [[LSD]] |
+| [[GHB]] | [[Speed]] | [[Ketamine]] |
+| [[Heroïne]] | [[XTC]] | [[Paddo’s]] |
+| [[Methadon]] | Thee | [[Hasj]] |
+| [[Opium]] | Koffie | [[Wiet]] |
+| [[Benzodiazepines]] | Redbull/Energy | Poppers |
+|  | [[Roken\|Tabak]] |  |
 |  | Qat |  |
 
 Bij de classificatie stoornis in het gebruik van middelen gaat het in principe om een combinatie van:
@@ -61,7 +72,7 @@ Persisterend en recidiverend problematisch gokgedrag, zoals blijkt uit vier of m
     - Heeft een belangrijke relatie, het werk of de eigen opleiding of carrière in gevaar gebracht of verloren door het gokken.
     - Heeft geld van anderen nodig om de uitzichtloze financiële problemen door het gokken te verlichten.
 
-## Ontwikkeling, beloop en gevolgen
+#### Ontwikkeling, beloop en gevolgen
 
 **Alcohol**
 
@@ -80,7 +91,7 @@ Natuurlijke beloop van een verslaving aan opiaten verloopt vaak ongunstig, met e
 
 - Weinig bekend.
 
-## Diagnostiek
+#### Diagnostiek
 
 Mensen zoeken minder snel hulp:
 
@@ -102,9 +113,9 @@ LO oa: RR verhoogd, grote/kleine lever, tekenen leverinsufficientie, ondervoedin
 
 Lab oa; ALAT, Gamma-GT, CDT, CMV.
 
-![Untitled](Verslaving%20acac40c1689048dc9a8d5091fbe65c5d/Untitled.png)
+![](https://i.imgur.com/IK4imZt.png)
 
-## **Differentiële diagnostiek**
+#### Differentiële diagnostiek
 
 Het klinische beeld kan worden gecompliceerd door symptomen van intoxicatie of onttrekking, waarbij het delirium, een psychose, een stemmingsstoornis, een angststoornis, seksuele disfuncties, of slaapstoornissen kunnen voorkomen.
 
@@ -114,7 +125,7 @@ Diagnostiek is hier extra gecompliceerd omdat de symptomen van de psychiatrische
 
 Een langere periode van abstinentie (verschillende weken) kan vaak duidelijkheid verschaffen.
 
-## **Etiopathogenese**
+#### Etiopathogenese
 
 Het eerste functiedomein zijn de progressieve veranderingen die zich voordoen in de hersensystemen die betrokken zijn bij het beloningsgerichte gedrag. Bij dit ‘motivatiesysteem’ zijn betrokken:
 
@@ -129,7 +140,7 @@ Het tweede functiedomein vormen de verstoringen van de cognitieve-zelfregulaties
 
 Verstoringen in een of beide functiedomeinen kunnen zowel premorbide aanwezig zijn (dan zijn ze een risicofactor voor het ontwikkelen van verslaving) als ontstaan door het langdurige gebruik van middelen (dan zorgen ze voor continuering van het verslavingsgedrag). Het is deze combinatie van een overactief motivatiesysteem en een deficiënt cognitieve-controlesysteem dat uiteindelijk leidt tot ongecontroleerd, overmatig gebruik en frequente terugval ondanks de negatieve consequenties op langere termijn.
 
-## Behandeling
+#### Behandeling
 
 *De opiatenonthouding is te bestrijden met methadon of buprenorfine (afbouwschema of onderhoudsdosering).*
 
@@ -140,7 +151,7 @@ Verstoringen in een of beide functiedomeinen kunnen zowel premorbide aanwezig zi
 - Detoxificatie-afdeling in een gespecialiseerde Verslavingskliniek met dagklinische of klinische vervolgbehandeling.
 - Systeeminterventies.
 
-# **Stoornissen door het gebruik van een middel/medicatie**
+### Stoornissen door het gebruik van een middel/medicatie
 
 Onttrekkings- en intoxicatiesymptomen komen frequent voor en zijn vaak aanleiding voor medische contacten en behandeling (onder andere in spoeddiensten van algemene ziekenhuizen)
 
@@ -148,10 +159,26 @@ De klinische vuistregel die hierbij gehanteerd kan worden, is dat bij de meeste 
 
 ---
 
-![Untitled](Verslaving%20acac40c1689048dc9a8d5091fbe65c5d/Untitled%201.png)
+
+| Middel                                | Onttrekking                                                                                                                                                        | Intoxicatie                                                                                                                                                                                                                          |
+|:------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tabak                                 | Dysforie, somberheid, slapeloosheid, prikkelbaarheid, angst, concentratieklachten, rusteloosheid, bradycardie, hyperorexie (verhoogde eetlust)                     | Misselijkheid, speekselvloed, buikpijn, diarree, hoofdpijn, duizeligheid                                                                                                                                                             |
+| [[Alcohol abusus\|Alcohol]]           | Tachycardie, transipreren, tremor, slapeloosheid, misselijkheid, braken, angst, epileptisch insult, delilium                                                       | Dysarthrie, coördinatiestoornissen, onzekere gang, nystagmus, ongepast gedrag, hypotenaciteit (verminderd vasthouden van aandacht), stupor, coma                                                                                     |
+| Benzodiazepinen                       | Tachycardie, transipreren, tremor, slapeloosheid, misselijkheid, braken, angst, epileptisch insult, delirium                                                       | Dysarthrie, coördinatiestoornissen, onzekere gang, nystagmus, ongepast gedrag, hypotenaciteit (verminderd vasthouden van aandacht), stupor, coma                                                                                     |
+| [[Gamma-hydroxyboterzuur (GHB)\|GHB]] | Tachycardie, transipreren, tremor, slapeloosheid, misselijkheid, braken, angst, epileptisch insult, delirium                                                       | Dysarthrie, coördinatiestoornissen, onzekere gang, nystagmus, ongepast gedrag, hypotenaciteit (verminderd vasthouden van aandacht), stupor, coma                                                                                     |
+| Cannabis                              | Misselijkheid, malaise, hoofdpijn                                                                                                                                  | Conjuctivale roodheid, hyperorexie (↑ eetlust), droge mond, tachycardie, verhoogde perceptie, psychose, angst, dissociatie                                                                                                           |
+| XTC of amfetamine                     | Somberheid                                                                                                                                                         | Tachycardie, grote pupillen, bruxisme, droge mond, meer praten, helder en alert, minder snel moe, psychose. </br> XTC → [[SIADH]]/hyponatriëmie/watervergiftiging                                                                    |
+| Cocaïne                               | Dysforie, angst, vermoeidheid, levendige onaagename dromen, prikkelbaarheid, slapeloosheid                                                                         | Tachycardie, grote pupillen, pijn op de borst, hypertensie, hyperthermie, spierzwakte, misselijkheid, braken, epileptisch insult, verwardheid, euforie, verhoogd zelfgevoel, angst, achterdocht, agressie, psychomotorische agitatie |
+| Heroïne                               | Prikkelbaarheid, dysforie, koorts, misselijkheid, braken, spierpijn, tranenvloed, loopneus, kippenvel, wijde pupillen, diarree, geeuwen, slapeloosheid, tachycardi | Onduidelijke spraak, bradycardie, nauwe pupillen, verhoging pijndrempel, hypotenaciteit, slaperigheid, sufheid, ademhalingsdepressie, coma)                                                                                                                                                                                                                                     |
+
+
 
 ---
 
 14 glazen alcoholhoudende drank per week bij vrouwen en een maximum van gemiddeld 21 glazen per week bij mannen.
 
 2. Welke afwijkingen kan men vinden bij een patiënt met alcoholproblematiek bij het lichamelijk onderzoek en bij laboratoriumonderzoek (raadpleeg evt. je leerboek interne geneeskunde en de CBO richtlijn: Stoornissen in het gebruik van alcohol)?
+
+
+
+

@@ -34,7 +34,7 @@ Als er geen somatische oorzaken bestaan voor de angststoornis en er geen psychoa
 
 | Angst bij lichamelijke klachten | V |
 | --- | --- |
-| Angst bij het [[Middelenmisbruik\|gebruik of onthouding van middelen]] | V |
+| Angst bij het [[Verslaving en Middelenmisbruik|gebruik of onthouding van middelen]] | V |
 | Angst bij sociale problemen | V |
 | **Angststoornissen** |  |
 | Paniekstoornis zonder agorafobie | V |
