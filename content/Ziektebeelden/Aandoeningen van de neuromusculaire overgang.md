@@ -103,7 +103,7 @@ Volgorde van het optreden van symptomen:
 - Dysartrie (uitspraakstoornis)
 - Moeite met kauwen
 - Dyspnoe
-- Spierzwakte van de schouder en bekkengordelspieren
+- Spierzwakte van de [[Anatomie extremiteiten|schouder]] en bekkengordelspieren
 
 
 Patroon:

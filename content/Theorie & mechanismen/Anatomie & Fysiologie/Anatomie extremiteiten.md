@@ -6,9 +6,53 @@ tags:
   - Orthopedie
   - Reumatologie
 aliases: 
+- m. rectus femoris
+- m. vastus lateralis
+- m. vastus medialis
+- m. vastus intermedius
+- m. sartorius
+- m. biceps femoris
+- m. semitendinosus
+- m. semimembranosus
+- m. adductor longus
+- m. adductor magnus
+- m. gracilis
+- Laterale condyle
+- Mediale condyle
+- Tuberositas tibiae
+- Tuberculum van Gerdy
+- Caput fibulae
+- Collum fibulae
+- Proximale tibiofibulair gewricht
+- Distale tibiofibulaire gewricht
+- Mediale malleolus
+- Laterale malleolus
+- Calcaneus
+- Naviculare
+- Talus
+- Quadriceps pees
+- Bursa suprapatellaris
+- Laterale collaterale ligament
+- Mediale collaterale ligament
+- Patella pees
+- Mediale meniscus
+- Laterale meniscus
+- Meniscus
+- Achillespees
+- Sternoclaviculair gewricht
+- Acromioclaviculair gewricht
+- Knie
+- Schouder
+- Enkel
+- Voet
+- Been
+- Femur
 publish: true
 description:
 ---
+
+
+
 
 
 ## ◾Onderste extremiteiten (knie, enkel, voet)
@@ -52,7 +96,6 @@ description:
 - Laterale collaterale ligament
 - Mediale collaterale ligament
 - Patella pees
-
 - Mediale meniscus
 - Laterale meniscus
 
@@ -244,10 +287,10 @@ description:
 
 
 <div class="image-grid">
-  <a href="https://i.imgur.com/1tg1KbR.png"><img src="https://i.imgur.com/1tg1KbR.png" class="resizable-image"></a>
-  <a href="https://i.imgur.com/O6MXgou.png"><img src="https://i.imgur.com/O6MXgou.png" class="resizable-image"></a>
-  <a href="https://i.imgur.com/QGfdj14.png"><img src="https://i.imgur.com/QGfdj14.png" class="resizable-image"></a>
-  <a href="https://i.imgur.com/OZLLYm1.png"><img src="https://i.imgur.com/OZLLYm1.png" class="resizable-image"></a>
+  <img src="https://i.imgur.com/1tg1KbR.png" class="resizable-image">
+ <img src="https://i.imgur.com/O6MXgou.png" class="resizable-image">
+ <img src="https://i.imgur.com/QGfdj14.png" class="resizable-image">
+<img src="https://i.imgur.com/OZLLYm1.png" class="resizable-image">
 </div>
 
 | Relevante spieren |

@@ -44,7 +44,7 @@ De auto-immuun anamnese is bedoeld om **extra-articulaire klachten en verschijn
 		- De meeste patiënten met het **syndroom van Sjögren** hebben last van siccaklachten.
 		- Schirmertest: ![](https://i.imgur.com/6kb1hSE.png)
 - Recidiverende enthesitis; 
-	- Recidiverende enthesitis komen voor bij **spondyloartritis**. Je vraagt naar peesontstekingen, zoals een zwelling van de achillespees.
+	- Recidiverende enthesitis komen voor bij **spondyloartritis**. Je vraagt naar peesontstekingen, zoals een zwelling van de [[Anatomie extremiteiten|achillespees]].
 - KNO-klachten
 	- Bij een primaire vasculitis van de kleine vaten, genaamd **granulomatose met polyangiitis (GPA)**, kunnen KNO-klachten voorkomen. Neusobstructie, bloederige rinorroe (neusuitvloed), bloederige korsten in de neus, recidiverende of chronische sinusitis en hyperplasie van gingiva (tandvlees) staan hierbij op de voorgrond.
 - Klachten passend bij inflammatoire darmziekten[^1];
@@ -163,7 +163,7 @@ Wanneer er klinisch sprake is van artritis, spreek je respectievelijk over **mo
 Als je de distributie van de aangedane gewrichten beschrijft, maak je onderscheid tussen:
 1.  **Grootte van de gewrichten**
     -   Kleine gewrichten: hand, pols, voor- en middenvoet
-    -   Grote gewrichten: enkel,  knie, heup, schouder en elleboog
+    -   Grote gewrichten: [[Anatomie extremiteiten|enkel]],  [[Anatomie extremiteiten|knie]], heup, [[Anatomie extremiteiten|schouder]] en elleboog
 2.  **Symmetrie**
     -   Symmetrische gewrichtsbetrokkenheid
     -   Asymmetrische gewrichtsbetrokkenheid

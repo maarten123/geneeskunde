@@ -104,7 +104,7 @@ Onder angst wordt de sympathicus geactiveerd en de parasympaticus gedeactiveerd.
 
 **Angst en [[hoofdpijn]]**
 
-- Aanspanning van de spieren kan zorgen voor een verhoogde spierspanning in de schouder en nekspieren en bijdragen aan het ontstaan van hoofdpijn.
+- Aanspanning van de spieren kan zorgen voor een verhoogde spierspanning in de [[Anatomie extremiteiten|schouder]] en nekspieren en bijdragen aan het ontstaan van hoofdpijn.
 - Verhoging van de bloeddruk kan ook bijdragen aan het ontstaan van hoofdpijn.
 
 ## Cognitieve reactie

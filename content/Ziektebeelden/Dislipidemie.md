@@ -61,12 +61,12 @@ _Bij aanwezigheid van 1 van de volgende criteria vermoeden voor FH:_
 	- Xanthomen zijn vetophopingen in de huid.
 		- ![|100](https://i.imgur.com/ArK0fa8.png)
 	- Ze zijn zichtbaar als gele of oranjegele bultjes of plakkaten.
-	- Xanthoma tendineum zijn vetophopingen in de peesschede, met name rond de strekpezen van de handen en voeten en rond de achillespees.
+	- Xanthoma tendineum zijn vetophopingen in de peesschede, met name rond de strekpezen van de handen en voeten en rond de [[Anatomie extremiteiten|achillespees]].
 	- Beide fenomenen komen voor bij **familiaire hypercholesterolemie.**
 
 - **Stap 2 – Completering van het FH-risicoprofiel**
 	- het uitvragen van de items uit de familieanamnese en de medische voorgeschiedenis die genoemd zijn in tabel 1;
-	- lichamelijk onderzoek naar aanwezigheid van peesxanthomen op de achillespees en op de strekpezen van de handen, en van een arcus lipoides;
+	- lichamelijk onderzoek naar aanwezigheid van peesxanthomen op de [[Anatomie extremiteiten|achillespees]] en op de strekpezen van de handen, en van een arcus lipoides;
 	- laboratoriumonderzoek bestaande uit nuchtere bepaling van het totaal-choles- terolgehalte, het HDL-cholesterolgehalte en triglyceriden, waarbij het door het laboratorium berekende LDL-cholesterolgehalte wordt
 	- Als het FH-risicoprofiel gecompleteerd is, berekent de huisarts de score van de patiënt met behulp van tabel Bij een score van 6 of meer komt de patiënt in aanmerking voor DNA-diagnostiek. Bij een score van minder dan 6 is DNA-diagnostiek niet geïndiceerd.
 	- Uitsluiting van secundaire vormen van hyperlipidemie bepalen glucosegehalte, de TSH, ALAT of γ-GT bepaald ter uitsluiting van diabetes, hypothyreoïdie en leverfunctiestoornissen

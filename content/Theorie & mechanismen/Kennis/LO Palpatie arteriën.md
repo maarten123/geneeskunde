@@ -80,7 +80,7 @@ Hiervoor moet vaak meer kracht gebruikt worden dan voor de palpatie van de ander
 
 **Arteria tibialis posterior** 
 
-Aan de enkels wordt dorsaal van de mediale malleolus de **arteria tibialis posterior** gepalpeerd.
+Aan de enkels wordt dorsaal van de [[Anatomie extremiteiten|mediale malleolus]] de **arteria tibialis posterior** gepalpeerd.
 
 **Arteria dorsalis pedis**
 

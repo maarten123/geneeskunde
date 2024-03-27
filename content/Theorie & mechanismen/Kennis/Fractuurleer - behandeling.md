@@ -253,7 +253,7 @@ Zie ➞ [[Fractuurleer - diagnostiek]]
 
 - **omschrijving**: openen van spiercompartimenten
 - **voorbeeld**: loge fasciotomie bij compartimentsyndroom bij crush letsel
-- **voordelen**: relatief kleine ingreep die het been kan redden, anders kan het been afsterven en is amputatie nodig 
+- **voordelen**: relatief kleine ingreep die het [[Anatomie extremiteiten|been]] kan redden, anders kan het been afsterven en is amputatie nodig 
 - **nadelen**: kans op beschadiging oppervlakkige huidzenuwtakken
 
 ### Keuze voor behandeling

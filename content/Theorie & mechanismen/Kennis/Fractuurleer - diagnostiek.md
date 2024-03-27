@@ -231,7 +231,7 @@ NB:
 **Relevante voorgeschiedenis**:
 Omschrijf eerdere relevante diagnose met therapie chronologisch op.
 - 00-00-2001 DM II waarvoor insuline subcutaan	
-- 00-00-2010 gonartrose rechts waarvoor totale knie prothese
+- 00-00-2010 gonartrose rechts waarvoor totale [[Anatomie extremiteiten|knie]] prothese
 - 00-00-2011 atriumfibrilleren waarvoor Dabigatran
 
 #### Anamnese
