@@ -21,8 +21,7 @@ function Banner({ fileData, displayClass }: QuartzComponentProps) {
   Banner.beforeDOM = `
   var imageUrl = "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
   document.getElementById('bannerImage').src = imageUrl;
-  }
-  `
+    `
 
   Banner.css = `
   .banner {
