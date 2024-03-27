@@ -1,19 +1,13 @@
 ---
-title: Epilepsie
-draft: false
-tags:
-  - Neurologie/Bewustzijnsverandering
-  - Ziektebeeld
-  - Overzicht
-aliases:
-  - Ictus
-  - Epileptische aanval
-publish: false
-description:
+tags: KVS
+type: 
+aliases: 
+cluster: D
+module: Bewustzijnsveranderingen
+specialisme: Neurologie
+sub: Bewustzijn
+banner: https://jnnp.bmj.com/content/jnnp/76/suppl_2/ii2/F1.large.jpg
 ---
-
-
-
 ## Epileptische aanval/Ictus
 
 📖 *Ictus = stoot = epileptische aanval*

@@ -5,7 +5,8 @@ tags:
   - Verslavingsgeneeskunde
   - Psychiatrie
   - Ziektebeeld
-aliases: 
+aliases:
+  - Verslaving
 description: 
 publish: true
 ---
