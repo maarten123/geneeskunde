@@ -18,6 +18,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
+    Component.Banner(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
