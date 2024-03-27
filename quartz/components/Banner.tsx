@@ -9,7 +9,7 @@ function Banner({ fileData, displayClass }: QuartzComponentProps) {
   Banner.css = `
   .banner {
     margin: 2rem 0 0 0;
-    height: 80px;
+    max-height: 80px;
     z-index: 1;
   }
   `
