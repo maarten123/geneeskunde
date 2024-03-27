@@ -11,6 +11,7 @@ function Banner({ fileData, displayClass }: QuartzComponentProps) {
     margin: 2rem 0 0 0;
     max-height: 80px;
     z-index: 1;
+    object-fit: cover;
   }
   `
 
