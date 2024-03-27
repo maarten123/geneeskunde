@@ -7,10 +7,14 @@ img:active {
     -webkit-transform: scale(2); /* Safari 3-8 */
     transform: scale(2); 
     opacity: 1 !important;
+    position: sticky;
 
   }
 
 img:hover{
  cursor: pointer;
  opacity: 0.8; 
+ z-index: 1000;
+ position: sticky;
+
 }
