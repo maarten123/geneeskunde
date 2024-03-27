@@ -8,13 +8,12 @@ img:active {
     transform: scale(2); 
     opacity: 1 !important;
     position: sticky;
-
+    z-index: 1000;
+    position: sticky;
+    overflow: hidden;
   }
 
 img:hover{
  cursor: pointer;
  opacity: 0.8; 
- z-index: 1000;
- position: sticky;
-
 }
