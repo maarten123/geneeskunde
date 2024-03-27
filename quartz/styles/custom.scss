@@ -2,7 +2,7 @@
 
 // put your custom CSS here!
 
-img:active {
+img:active:not(.banner) {
     -ms-transform: scale(2); /* IE 9 */
     -webkit-transform: scale(2); /* Safari 3-8 */
     transform: scale(2); 
@@ -15,7 +15,7 @@ img:active {
     max-height: 80vh;
   }
 
-img:hover{
+img:hover:not(.banner){
  cursor: pointer;
  opacity: 0.8; 
 }
